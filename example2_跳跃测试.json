@@ -1,0 +1,199 @@
+{
+  "info": {
+    "map": "miraland",
+    "name": "example2_跳跃测试",
+    "region": "花愿镇",
+    "type": "综合",
+    "target": "无"
+  },
+  "points": [
+    {
+      "id": 0,
+      "position": [
+        6419,
+        4001.6
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "TELEPORT"
+    },
+    {
+      "id": 1,
+      "position": [
+        6485.3,
+        3888.2
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 2,
+      "position": [
+        6496.7,
+        3891.9
+      ],
+      "point_type": "TARGET",
+      "move_mode": "JUMP"
+    },
+    {
+      "id": 3,
+      "position": [
+        6498.180537415338,
+        3911.954432540393,
+        0
+      ],
+      "point_type": "TARGET",
+      "move_mode": "JUMP"
+    },
+    {
+      "id": 4,
+      "position": [
+        6498.532616184592,
+        3918.9946590507125,
+        0
+      ],
+      "point_type": "TARGET",
+      "move_mode": "JUMP",
+      "action": "WAIT",
+      "action_params": "2"
+    },
+    {
+      "id": 5,
+      "position": [
+        6517.2,
+        3919.1
+      ],
+      "point_type": "TARGET",
+      "move_mode": "JUMP",
+      "action": "WAIT",
+      "action_params": "0.5"
+    },
+    {
+      "id": 6,
+      "position": [
+        6527.7,
+        3919.1
+      ],
+      "point_type": "TARGET",
+      "move_mode": "JUMP",
+      "action": "WAIT",
+      "action_params": "1.5"
+    },
+    {
+      "id": 7,
+      "position": [
+        6539.68566921929,
+        3913.5614564100115,
+        0
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 8,
+      "position": [
+        6552.651258690507,
+        3906.7233631281697,
+        0
+      ],
+      "point_type": "TARGET",
+      "move_mode": "JUMP",
+      "action": "WAIT",
+      "action_params": "1.5"
+    },
+    {
+      "id": 9,
+      "position": [
+        6564.9,
+        3895.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 10,
+      "position": [
+        6569.758485253888,
+        3890.3881640359627,
+        0
+      ],
+      "point_type": "TARGET",
+      "move_mode": "JUMP"
+    },
+    {
+      "id": 11,
+      "position": [
+        6573.536367344823,
+        3884.69244913089,
+        0
+      ],
+      "point_type": "TARGET",
+      "move_mode": "JUMP",
+      "action": "WAIT",
+      "action_params": "1.5"
+    },
+    {
+      "id": 12,
+      "position": [
+        6580.955154083877,
+        3868.655407576379,
+        0
+      ],
+      "point_type": "TARGET",
+      "move_mode": "JUMP",
+      "action": "WAIT",
+      "action_params": "0.5"
+    },
+    {
+      "id": 13,
+      "position": [
+        6592.349055521631,
+        3863.9754008333057,
+        0
+      ],
+      "point_type": "TARGET",
+      "move_mode": "JUMP",
+      "action": "WAIT",
+      "action_params": "0.5"
+    },
+    {
+      "id": 14,
+      "position": [
+        6582.356054504904,
+        3860.5339573020583,
+        0
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 15,
+      "position": [
+        6581.990743341993,
+        3861.6159505358783,
+        0
+      ],
+      "point_type": "TARGET",
+      "move_mode": "JUMP"
+    },
+    {
+      "id": 16,
+      "position": [
+        6566.117758736108,
+        3873.8208471777843,
+        0
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 17,
+      "position": [
+        6540.2,
+        3859.3
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    }
+  ]
+}

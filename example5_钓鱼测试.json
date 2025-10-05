@@ -1,0 +1,95 @@
+{
+  "info": {
+    "map": "miraland",
+    "name": "example5_钓鱼测试",
+    "region": "花愿镇",
+    "target": "厨师帽鱼",
+    "count": 1,
+    "type": "钓鱼"
+  },
+  "points": [
+    {
+      "id": 0,
+      "position": [
+        7356.4,
+        4598.9
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "TELEPORT"
+    },
+    {
+      "id": 1,
+      "position": [
+        7357,
+        4611.8
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 2,
+      "position": [
+        7349.2,
+        4641.4
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 3,
+      "position": [
+        7342.6,
+        4655.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 4,
+      "position": [
+        7322.1,
+        4687.4
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 5,
+      "position": [
+        7330.3,
+        4694.6
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 6,
+      "position": [
+        7343,
+        4702.1
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 7,
+      "position": [
+        7332.4,
+        4716.7
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "FISHING"
+    },
+    {
+      "id": 8,
+      "position": [
+        7341.7,
+        4703.7
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    }
+  ]
+}

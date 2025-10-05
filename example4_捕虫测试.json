@@ -1,0 +1,51 @@
+{
+  "info": {
+    "map": "miraland",
+    "name": "example4_捕虫测试",
+    "region": "微风绿野",
+    "target": "发卡蚱蜢",
+    "count": 3,
+    "type": "捕虫"
+  },
+  "points": [
+    {
+      "id": 0,
+      "position": [
+        6188,
+        5446.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "TELEPORT"
+    },
+    {
+      "id": 1,
+      "position": [
+        6172.1,
+        5422.3
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 2,
+      "position": [
+        6158.6,
+        5408.6
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "CATCH_INSECT",
+      "action_params": "3"
+    },
+    {
+      "id": 3,
+      "position": [
+        6134.4,
+        5393.2
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    }
+  ]
+}
