@@ -1,0 +1,387 @@
+{
+  "info": {
+    "count": "12",
+    "default": null,
+    "map": "miraland",
+    "name": "花愿镇 晴日蝶兰",
+    "region": "花愿镇",
+    "target": "晴日蝶兰",
+    "type": "采集",
+    "update_time": "2025-11-17 10:46:49"
+  },
+  "points": [
+    {
+      "id": 0,
+      "position": [
+        6987.6,
+        4441.6
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "TELEPORT"
+    },
+    {
+      "id": 1,
+      "position": [
+        6991.8,
+        4435.7
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 2,
+      "position": [
+        6980.5,
+        4429.2
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 3,
+      "position": [
+        6978,
+        4430.9
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 4,
+      "position": [
+        6971.2,
+        4454.8
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 5,
+      "position": [
+        6964,
+        4469.8
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 6,
+      "position": [
+        6935.1,
+        4545
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 7,
+      "position": [
+        6965.5,
+        4606.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 8,
+      "position": [
+        6951.7,
+        4654.9
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 9,
+      "position": [
+        6925.2,
+        4645.8
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "PICK_UP"
+    },
+    {
+      "id": 10,
+      "position": [
+        6921.4,
+        4640.6
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "PICK_UP"
+    },
+    {
+      "id": 11,
+      "position": [
+        6903.7,
+        4650.7
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 12,
+      "position": [
+        6889.4,
+        4640.7
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "PICK_UP"
+    },
+    {
+      "id": 13,
+      "position": [
+        6878.3,
+        4644.1
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "PICK_UP"
+    },
+    {
+      "id": 14,
+      "position": [
+        6850.1,
+        4635
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 15,
+      "position": [
+        6772.5,
+        4645.1
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 16,
+      "position": [
+        6742.7,
+        4682.6
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "PICK_UP"
+    },
+    {
+      "id": 17,
+      "position": [
+        6736.8,
+        4691.6
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "PICK_UP"
+    },
+    {
+      "id": 18,
+      "position": [
+        6704.2,
+        4695.1
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 19,
+      "position": [
+        6662.8,
+        4702.4
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 20,
+      "position": [
+        6606.2,
+        4706.2
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 21,
+      "position": [
+        6580.2,
+        4719.7
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "PICK_UP"
+    },
+    {
+      "id": 22,
+      "position": [
+        6620.2,
+        4706.1
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 23,
+      "position": [
+        6663.3,
+        4700.7
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 24,
+      "position": [
+        6740.4,
+        4665.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 25,
+      "position": [
+        6746.3,
+        4603.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 26,
+      "position": [
+        6714.7,
+        4579.6
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 27,
+      "position": [
+        6720.2,
+        4553.1
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 28,
+      "position": [
+        6712.8,
+        4542.7
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 29,
+      "position": [
+        6693.1,
+        4521.2
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "PICK_UP"
+    },
+    {
+      "id": 30,
+      "position": [
+        6693.8,
+        4514
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "PICK_UP"
+    },
+    {
+      "id": 31,
+      "position": [
+        6663.1,
+        4492.2
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 32,
+      "position": [
+        6641.8,
+        4449.1
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 33,
+      "position": [
+        6670.8,
+        4389.4
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 34,
+      "position": [
+        6676.7,
+        4344.7
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 35,
+      "position": [
+        6666.9,
+        4341.6
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "PICK_UP"
+    },
+    {
+      "id": 36,
+      "position": [
+        6693.1,
+        4317.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "PICK_UP"
+    },
+    {
+      "id": 37,
+      "position": [
+        6692.2,
+        4310.8
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 38,
+      "position": [
+        6684.9,
+        4282.2
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "PICK_UP"
+    },
+    {
+      "id": 39,
+      "position": [
+        6684.9,
+        4282.2
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    }
+  ]
+}

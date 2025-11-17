@@ -1,0 +1,567 @@
+{
+  "info": {
+    "count": "27",
+    "default": null,
+    "map": "miraland",
+    "name": "祈愿树林 星荧草",
+    "region": "祈愿树林",
+    "target": "星荧草",
+    "type": "采集",
+    "update_time": "2025-11-17 16:26:53"
+  },
+  "points": [
+    {
+      "id": 0,
+      "position": [
+        8573.2,
+        3639.8
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "TELEPORT"
+    },
+    {
+      "id": 1,
+      "position": [
+        8564.3,
+        3650.7
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 2,
+      "position": [
+        8567.4,
+        3656.8
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "PICK_UP"
+    },
+    {
+      "id": 3,
+      "position": [
+        8565.6,
+        3666.4
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "PICK_UP"
+    },
+    {
+      "id": 4,
+      "position": [
+        8564.7,
+        3645
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 5,
+      "position": [
+        8551.84299699411,
+        3633.1209648399586,
+        0
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "PICK_UP"
+    },
+    {
+      "id": 6,
+      "position": [
+        8553.7,
+        3619.7
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "PICK_UP"
+    },
+    {
+      "id": 7,
+      "position": [
+        8564.8,
+        3625.3
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 8,
+      "position": [
+        8572.6,
+        3630.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 9,
+      "position": [
+        8574.6,
+        3604.9
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "PICK_UP"
+    },
+    {
+      "id": 10,
+      "position": [
+        8581.1,
+        3588.8
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "PICK_UP"
+    },
+    {
+      "id": 11,
+      "position": [
+        8595.6,
+        3599.2
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "PICK_UP"
+    },
+    {
+      "id": 12,
+      "position": [
+        8593.6,
+        3604.3
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 13,
+      "position": [
+        8590.1,
+        3629.2
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "PICK_UP"
+    },
+    {
+      "id": 14,
+      "position": [
+        8598.1,
+        3634
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "PICK_UP"
+    },
+    {
+      "id": 15,
+      "position": [
+        8602.5,
+        3644.8
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "PICK_UP"
+    },
+    {
+      "id": 16,
+      "position": [
+        8614.3,
+        3633.2
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 17,
+      "position": [
+        8631.4,
+        3612.4
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "PICK_UP"
+    },
+    {
+      "id": 18,
+      "position": [
+        8641,
+        3616
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 19,
+      "position": [
+        8652.4,
+        3623.8
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 20,
+      "position": [
+        8652.6,
+        3639.3
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "PICK_UP"
+    },
+    {
+      "id": 21,
+      "position": [
+        8659.8,
+        3585.2
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "PICK_UP"
+    },
+    {
+      "id": 22,
+      "position": [
+        8686.2,
+        3604.6
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "PICK_UP"
+    },
+    {
+      "id": 23,
+      "position": [
+        8685.9,
+        3639
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 24,
+      "position": [
+        8700.2,
+        3652.8
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "PICK_UP"
+    },
+    {
+      "id": 25,
+      "position": [
+        8717,
+        3628.9
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 26,
+      "position": [
+        8733.2,
+        3601.8
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "PICK_UP"
+    },
+    {
+      "id": 27,
+      "position": [
+        8752,
+        3635
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 28,
+      "position": [
+        8755.1,
+        3639
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 29,
+      "position": [
+        8757.7,
+        3635.3
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "PICK_UP"
+    },
+    {
+      "id": 30,
+      "position": [
+        8767.2,
+        3617
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 31,
+      "position": [
+        8769.3,
+        3615.9
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 32,
+      "position": [
+        8778.2,
+        3617
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "PICK_UP"
+    },
+    {
+      "id": 33,
+      "position": [
+        8775.1,
+        3583.7
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 34,
+      "position": [
+        8780,
+        3573.8
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "PICK_UP"
+    },
+    {
+      "id": 35,
+      "position": [
+        8816.6,
+        3586.9
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "PICK_UP"
+    },
+    {
+      "id": 36,
+      "position": [
+        8813.3,
+        3558.4
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 37,
+      "position": [
+        8821.4,
+        3552.3
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "PICK_UP"
+    },
+    {
+      "id": 38,
+      "position": [
+        8819.6,
+        3551.2
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 39,
+      "position": [
+        8810.2,
+        3540.3
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 40,
+      "position": [
+        8806.9,
+        3537.6
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 41,
+      "position": [
+        8798.5,
+        3529.7
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 42,
+      "position": [
+        8797.1,
+        3529.2
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "PICK_UP"
+    },
+    {
+      "id": 43,
+      "position": [
+        8792.7,
+        3525.9
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "PICK_UP"
+    },
+    {
+      "id": 44,
+      "position": [
+        8800.6,
+        3512.2
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 45,
+      "position": [
+        8806.9,
+        3515.6
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "PICK_UP"
+    },
+    {
+      "id": 46,
+      "position": [
+        8826.6,
+        3507.6
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 47,
+      "position": [
+        8833.7,
+        3515.6
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "PICK_UP"
+    },
+    {
+      "id": 48,
+      "position": [
+        8833,
+        3512.8
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 49,
+      "position": [
+        8840.7,
+        3486.2
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 50,
+      "position": [
+        8839.8,
+        3484.3
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 51,
+      "position": [
+        8826.9,
+        3482.4
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "PICK_UP"
+    },
+    {
+      "id": 52,
+      "position": [
+        8835.1,
+        3469.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 53,
+      "position": [
+        8843.5,
+        3465.3
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "PICK_UP"
+    },
+    {
+      "id": 54,
+      "position": [
+        8836.2,
+        3452.2
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "PICK_UP"
+    },
+    {
+      "id": 55,
+      "position": [
+        8854.6,
+        3472.7
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 56,
+      "position": [
+        8876.7,
+        3440.9
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "PICK_UP"
+    },
+    {
+      "id": 57,
+      "position": [
+        8876.8,
+        3441
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    }
+  ]
+}
