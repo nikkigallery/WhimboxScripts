@@ -5,14 +5,16 @@
     "region": "微风绿野",
     "target": "发卡蚱蜢",
     "count": 3,
-    "type": "捕虫"
+    "type": "捕虫",
+    "update_time": "2025-11-29 19:30:16",
+    "version": "2.0"
   },
   "points": [
     {
       "id": 0,
       "position": [
-        6188,
-        5446.5
+        -23805,
+        -6592.5
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
@@ -21,8 +23,8 @@
     {
       "id": 1,
       "position": [
-        6172.1,
-        5422.3
+        -24520.5,
+        -7681.5
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -30,8 +32,8 @@
     {
       "id": 2,
       "position": [
-        6158.6,
-        5408.6
+        -25128,
+        -8298
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
@@ -41,8 +43,8 @@
     {
       "id": 3,
       "position": [
-        6134.4,
-        5393.2
+        -26217,
+        -8991
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"

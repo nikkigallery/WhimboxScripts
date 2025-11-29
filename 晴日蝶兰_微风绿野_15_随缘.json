@@ -7,14 +7,15 @@
     "region": "微风绿野",
     "target": "晴日蝶兰",
     "type": "采集",
-    "update_time": "2025-11-20 18:22:43"
+    "update_time": "2025-11-29 19:30:51",
+    "version": "2.0"
   },
   "points": [
     {
       "id": 0,
       "position": [
-        7619,
-        7086.9
+        40590,
+        67225.5
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
@@ -23,8 +24,8 @@
     {
       "id": 1,
       "position": [
-        7608.9,
-        7051.3
+        40135.5,
+        65623.5
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -32,8 +33,8 @@
     {
       "id": 2,
       "position": [
-        7655.8,
-        6988.1
+        42246,
+        62779.5
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -41,8 +42,8 @@
     {
       "id": 3,
       "position": [
-        7661.3,
-        6954.4
+        42493.5,
+        61263
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -50,8 +51,8 @@
     {
       "id": 4,
       "position": [
-        7714.9,
-        6843.8
+        44905.5,
+        56286
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -59,8 +60,8 @@
     {
       "id": 5,
       "position": [
-        7710.6,
-        6791.6
+        44712,
+        53937
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -68,9 +69,8 @@
     {
       "id": 6,
       "position": [
-        7686.124448742562,
-        6754.667825030123,
-        0
+        43610.6,
+        52275.05
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -78,8 +78,8 @@
     {
       "id": 7,
       "position": [
-        7654.1,
-        6761.9
+        42169.5,
+        52600.5
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
@@ -88,8 +88,8 @@
     {
       "id": 8,
       "position": [
-        7617.9,
-        6708
+        40540.5,
+        50175
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -97,8 +97,8 @@
     {
       "id": 9,
       "position": [
-        7583.9,
-        6640.3
+        39010.5,
+        47128.5
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
@@ -107,8 +107,8 @@
     {
       "id": 10,
       "position": [
-        7561.1,
-        6589.7
+        37984.5,
+        44851.5
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -116,8 +116,8 @@
     {
       "id": 11,
       "position": [
-        7554.6,
-        6557
+        37692,
+        43380
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -125,8 +125,8 @@
     {
       "id": 12,
       "position": [
-        7524.6,
-        6512
+        36342,
+        41355
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -134,8 +134,8 @@
     {
       "id": 13,
       "position": [
-        7486.4,
-        6526.3
+        34623,
+        41998.5
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -143,8 +143,8 @@
     {
       "id": 14,
       "position": [
-        7478.6,
-        6508.1
+        34272,
+        41179.5
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
@@ -153,9 +153,8 @@
     {
       "id": 15,
       "position": [
-        7455.8739750552395,
-        6540.682096304535,
-        0
+        33249.33,
+        42645.69
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -163,8 +162,8 @@
     {
       "id": 16,
       "position": [
-        7316.7,
-        6571.2
+        26986.5,
+        44019
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
@@ -173,8 +172,8 @@
     {
       "id": 17,
       "position": [
-        7153.8,
-        6598
+        19656,
+        45225
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -182,8 +181,8 @@
     {
       "id": 18,
       "position": [
-        7058.3,
-        6669.8
+        15358.5,
+        48456
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -191,8 +190,8 @@
     {
       "id": 19,
       "position": [
-        7070.1,
-        6700.9
+        15889.5,
+        49855.5
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
@@ -201,9 +200,8 @@
     {
       "id": 20,
       "position": [
-        7045.391573100333,
-        6791.997945104128,
-        0
+        14777.62,
+        53954.91
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -211,8 +209,8 @@
     {
       "id": 21,
       "position": [
-        7023.6,
-        6793.3
+        13797,
+        54013.5
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
@@ -221,8 +219,8 @@
     {
       "id": 22,
       "position": [
-        6927.9,
-        6762.5
+        9490.5,
+        52627.5
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -230,9 +228,8 @@
     {
       "id": 23,
       "position": [
-        6914.7729876750955,
-        6650.869155103589,
-        0
+        8899.78,
+        47604.11
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -240,8 +237,8 @@
     {
       "id": 24,
       "position": [
-        6763.6,
-        6695.2
+        2097,
+        49599
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -249,8 +246,8 @@
     {
       "id": 25,
       "position": [
-        6700.7,
-        6749.3
+        -733.5,
+        52033.5
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
@@ -259,8 +256,8 @@
     {
       "id": 26,
       "position": [
-        6700.8,
-        6749.1
+        -729,
+        52024.5
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -268,8 +265,8 @@
     {
       "id": 27,
       "position": [
-        6706.2,
-        6792.7
+        -486,
+        53986.5
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -277,8 +274,8 @@
     {
       "id": 28,
       "position": [
-        6628.8,
-        6807.3
+        -3969,
+        54643.5
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -286,8 +283,8 @@
     {
       "id": 29,
       "position": [
-        6565.1,
-        6863.3
+        -6835.5,
+        57163.5
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
@@ -296,8 +293,8 @@
     {
       "id": 30,
       "position": [
-        6515,
-        6809.4
+        -9090,
+        54738
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -305,8 +302,8 @@
     {
       "id": 31,
       "position": [
-        6489.3,
-        6835.1
+        -10246.5,
+        55894.5
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -314,8 +311,8 @@
     {
       "id": 32,
       "position": [
-        6472.5,
-        6892.7
+        -11002.5,
+        58486.5
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -323,8 +320,8 @@
     {
       "id": 33,
       "position": [
-        6446,
-        6883
+        -12195,
+        58050
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -332,8 +329,8 @@
     {
       "id": 34,
       "position": [
-        6384.9,
-        6892.9
+        -14944.5,
+        58495.5
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -341,8 +338,8 @@
     {
       "id": 35,
       "position": [
-        6327.2,
-        6850.4
+        -17541,
+        56583
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -350,8 +347,8 @@
     {
       "id": 36,
       "position": [
-        6306.8,
-        6810
+        -18459,
+        54765
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -359,8 +356,8 @@
     {
       "id": 37,
       "position": [
-        6287.1,
-        6798.7
+        -19345.5,
+        54256.5
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
@@ -369,8 +366,8 @@
     {
       "id": 38,
       "position": [
-        6295.9,
-        6779
+        -18949.5,
+        53370
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -378,8 +375,8 @@
     {
       "id": 39,
       "position": [
-        6326.9,
-        6774.5
+        -17554.5,
+        53167.5
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -387,8 +384,8 @@
     {
       "id": 40,
       "position": [
-        6350.8,
-        6789.4
+        -16479,
+        53838
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -396,8 +393,8 @@
     {
       "id": 41,
       "position": [
-        6404.2,
-        6748.2
+        -14076,
+        51984
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -405,8 +402,8 @@
     {
       "id": 42,
       "position": [
-        6444.2,
-        6731.4
+        -12276,
+        51228
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -414,8 +411,8 @@
     {
       "id": 43,
       "position": [
-        6458.6,
-        6697.5
+        -11628,
+        49702.5
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -423,9 +420,8 @@
     {
       "id": 44,
       "position": [
-        6456.38598250821,
-        6673.737682531541,
-        0
+        -11727.63,
+        48633.2
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -433,8 +429,8 @@
     {
       "id": 45,
       "position": [
-        6441.3,
-        6646.6
+        -12406.5,
+        47412
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -442,8 +438,8 @@
     {
       "id": 46,
       "position": [
-        6414.9,
-        6645.2
+        -13594.5,
+        47349
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
@@ -452,8 +448,8 @@
     {
       "id": 47,
       "position": [
-        6413,
-        6618.5
+        -13680,
+        46147.5
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -461,8 +457,8 @@
     {
       "id": 48,
       "position": [
-        6425.3,
-        6553.6
+        -13126.5,
+        43227
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -470,9 +466,8 @@
     {
       "id": 49,
       "position": [
-        6467.251470852344,
-        6522.43019503577,
-        0
+        -11238.68,
+        41824.36
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -480,9 +475,8 @@
     {
       "id": 50,
       "position": [
-        6414.7007728278395,
-        6484.224210714782,
-        0
+        -13603.47,
+        40105.09
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -490,9 +484,8 @@
     {
       "id": 51,
       "position": [
-        6475.7667152517415,
-        6351.811910809973,
-        0
+        -10855.5,
+        34146.54
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
@@ -501,8 +494,8 @@
     {
       "id": 52,
       "position": [
-        6480.7,
-        6324.1
+        -10633.5,
+        32899.5
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -510,8 +503,8 @@
     {
       "id": 53,
       "position": [
-        6455.1,
-        6228.4
+        -11785.5,
+        28593
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
@@ -520,8 +513,8 @@
     {
       "id": 54,
       "position": [
-        6462.9,
-        6117.3
+        -11434.5,
+        23593.5
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -529,8 +522,8 @@
     {
       "id": 55,
       "position": [
-        6382.2,
-        6100.8
+        -15066,
+        22851
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -538,8 +531,8 @@
     {
       "id": 56,
       "position": [
-        6397.5,
-        6051.4
+        -14377.5,
+        20628
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -547,8 +540,8 @@
     {
       "id": 57,
       "position": [
-        6386.8,
-        6051.9
+        -14859,
+        20650.5
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
@@ -557,8 +550,8 @@
     {
       "id": 58,
       "position": [
-        6372.1,
-        6077.3
+        -15520.5,
+        21793.5
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -566,8 +559,8 @@
     {
       "id": 59,
       "position": [
-        6310.6,
-        6082.2
+        -18288,
+        22014
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -575,8 +568,8 @@
     {
       "id": 60,
       "position": [
-        6174.9,
-        6116.9
+        -24394.5,
+        23575.5
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -584,8 +577,8 @@
     {
       "id": 61,
       "position": [
-        6134.6,
-        6048.3
+        -26208,
+        20488.5
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -593,8 +586,8 @@
     {
       "id": 62,
       "position": [
-        6116.5,
-        6040.3
+        -27022.5,
+        20128.5
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
@@ -603,8 +596,8 @@
     {
       "id": 63,
       "position": [
-        6187.5,
-        6000.9
+        -23827.5,
+        18355.5
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -612,8 +605,8 @@
     {
       "id": 64,
       "position": [
-        6189.5,
-        5984.3
+        -23737.5,
+        17608.5
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
@@ -622,8 +615,8 @@
     {
       "id": 65,
       "position": [
-        6189.5,
-        5984.3
+        -23737.5,
+        17608.5
       ],
       "point_type": "TARGET",
       "move_mode": "JUMP"

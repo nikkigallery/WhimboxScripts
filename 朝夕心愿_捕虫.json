@@ -7,14 +7,15 @@
     "region": "微风绿野",
     "target": "织衣蛛",
     "type": "捕虫",
-    "update_time": "2025-11-15 21:09:58"
+    "update_time": "2025-11-29 19:32:13",
+    "version": "2.0"
   },
   "points": [
     {
       "id": 0,
       "position": [
-        6078.5,
-        6697.2
+        -28732.5,
+        49689
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
@@ -23,8 +24,8 @@
     {
       "id": 1,
       "position": [
-        6107.2,
-        6695.9
+        -27441,
+        49630.5
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -32,8 +33,8 @@
     {
       "id": 2,
       "position": [
-        6113.2,
-        6698.6
+        -27171,
+        49752
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -41,9 +42,8 @@
     {
       "id": 3,
       "position": [
-        6125.816803435872,
-        6702.003993379239,
-        0
+        -26603.24,
+        49905.18
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
@@ -52,8 +52,8 @@
     {
       "id": 4,
       "position": [
-        6137.8,
-        6703.3
+        -26064,
+        49963.5
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -61,8 +61,8 @@
     {
       "id": 5,
       "position": [
-        6150.6,
-        6704.7
+        -25488,
+        50026.5
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -70,8 +70,8 @@
     {
       "id": 6,
       "position": [
-        6155.1,
-        6701.2
+        -25285.5,
+        49869
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -79,8 +79,8 @@
     {
       "id": 7,
       "position": [
-        6152.6,
-        6682.1
+        -25398,
+        49009.5
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -88,8 +88,8 @@
     {
       "id": 8,
       "position": [
-        6135,
-        6673.3
+        -26190,
+        48613.5
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
@@ -98,9 +98,8 @@
     {
       "id": 9,
       "position": [
-        6146.033293717634,
-        6673.619871546236,
-        0
+        -25693.5,
+        48627.89
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -108,9 +107,8 @@
     {
       "id": 10,
       "position": [
-        6154.119555326448,
-        6632.024701115706,
-        0
+        -25329.62,
+        46756.11
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -118,8 +116,8 @@
     {
       "id": 11,
       "position": [
-        6137,
-        6623.2
+        -26100,
+        46359
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
@@ -128,8 +126,8 @@
     {
       "id": 12,
       "position": [
-        6116.8,
-        6616.5
+        -27009,
+        46057.5
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"

@@ -5,14 +5,16 @@
     "region": "花愿镇",
     "target": "厨师帽鱼",
     "count": 1,
-    "type": "钓鱼"
+    "type": "钓鱼",
+    "version": "2.0",
+    "update_time": "2025-11-29 19:32:37"
   },
   "points": [
     {
       "id": 0,
       "position": [
-        7356.4,
-        4598.9
+        28773,
+        -44734.5
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
@@ -21,8 +23,8 @@
     {
       "id": 1,
       "position": [
-        7357,
-        4611.8
+        28800,
+        -44154
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -30,8 +32,8 @@
     {
       "id": 2,
       "position": [
-        7349.2,
-        4641.4
+        28449,
+        -42822
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -39,8 +41,8 @@
     {
       "id": 3,
       "position": [
-        7342.6,
-        4655.5
+        28152,
+        -42187.5
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -48,8 +50,8 @@
     {
       "id": 4,
       "position": [
-        7322.1,
-        4687.4
+        27229.5,
+        -40752
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -57,8 +59,8 @@
     {
       "id": 5,
       "position": [
-        7330.3,
-        4694.6
+        27598.5,
+        -40428
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -66,8 +68,8 @@
     {
       "id": 6,
       "position": [
-        7343,
-        4702.1
+        28170,
+        -40090.5
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -75,8 +77,8 @@
     {
       "id": 7,
       "position": [
-        7332.4,
-        4716.7
+        27693,
+        -39433.5
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
@@ -85,8 +87,8 @@
     {
       "id": 8,
       "position": [
-        7341.7,
-        4703.7
+        28111.5,
+        -40018.5
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
