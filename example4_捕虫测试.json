@@ -6,6 +6,7 @@
     "target": "发卡蚱蜢",
     "count": 3,
     "type": "捕虫",
+    "default": true,
     "update_time": "2025-11-29 19:30:16",
     "version": "2.0"
   },
@@ -13,8 +14,8 @@
     {
       "id": 0,
       "position": [
-        -23805,
-        -6592.5
+        -23827.26,
+        -6786.26
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
@@ -23,8 +24,8 @@
     {
       "id": 1,
       "position": [
-        -24520.5,
-        -7681.5
+        -24542.76,
+        -7875.26
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -32,8 +33,8 @@
     {
       "id": 2,
       "position": [
-        -25128,
-        -8298
+        -25150.26,
+        -8491.76
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
@@ -43,8 +44,8 @@
     {
       "id": 3,
       "position": [
-        -26217,
-        -8991
+        -26239.26,
+        -9184.76
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
