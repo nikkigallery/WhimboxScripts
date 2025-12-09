@@ -1,0 +1,117 @@
+{
+  "info": {
+    "count": 0,
+    "default": null,
+    "map": "miraland",
+    "name": "朝夕心愿_小游戏",
+    "region": "花愿镇",
+    "target": "无",
+    "type": "综合",
+    "update_time": "2025-12-8 14:00:39",
+    "version": "2.0"
+  },
+  "points": [
+    {
+      "id": 0,
+      "position": [
+        -13351.5,
+        -41940
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "TELEPORT"
+    },
+    {
+      "id": 1,
+      "position": [
+        -14715,
+        -39712.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 2,
+      "position": [
+        -16591.5,
+        -39919.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 3,
+      "position": [
+        -18292.5,
+        -40671
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 4,
+      "position": [
+        -19660.5,
+        -40639.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 5,
+      "position": [
+        -22513.5,
+        -42556.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 6,
+      "position": [
+        -23472,
+        -42867
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 7,
+      "position": [
+        -23634,
+        -43780.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 8,
+      "position": [
+        -23481,
+        -44338.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 9,
+      "position": [
+        -23103,
+        -44703
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MINIGAME",
+      "action_params": "朝夕心愿_小游戏_穿梭大冒险_宏"
+    },
+    {
+      "id": 10,
+      "position": [
+        -23103,
+        -44703
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    }
+  ]
+}
