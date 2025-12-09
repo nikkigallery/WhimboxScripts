@@ -1,0 +1,39 @@
+{
+  "info": {
+    "name": "朝夕心愿_小游戏_穿梭大冒险_宏",
+    "type": "宏",
+    "version": "2.0",
+    "update_time": "2025-12-08 13:19:43",
+    "offset": -9.154048442840576
+  },
+  "steps": [
+    {
+      "action": "press",
+      "key": "w",
+      "position": null,
+      "timestamp": 9.654048442840576,
+      "type": "keyboard"
+    },
+    {
+      "action": "press",
+      "key": "d",
+      "position": null,
+      "timestamp": 14.106978416442871,
+      "type": "keyboard"
+    },
+    {
+      "action": "release",
+      "key": "d",
+      "position": null,
+      "timestamp": 18.041478157043457,
+      "type": "keyboard"
+    },
+    {
+      "action": "release",
+      "key": "w",
+      "position": null,
+      "timestamp": 20.33238196372986,
+      "type": "keyboard"
+    }
+  ]
+}

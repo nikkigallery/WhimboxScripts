@@ -7,7 +7,7 @@
     "region": "微风绿野",
     "target": "织衣蛛",
     "type": "捕虫",
-    "update_time": "2025-11-29 19:32:13",
+    "update_time": "2025-12-5 9:05:11",
     "version": "2.0"
   },
   "points": [
@@ -126,8 +126,73 @@
     {
       "id": 12,
       "position": [
-        -27031.26,
-        45863.74
+        -27882,
+        45373.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 13,
+      "position": [
+        -28057.5,
+        44451
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 14,
+      "position": [
+        -29740.5,
+        43236
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 15,
+      "position": [
+        -30770.78,
+        41761.18
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 16,
+      "position": [
+        -31838.47,
+        40782.91
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "CATCH_INSECT"
+    },
+    {
+      "id": 17,
+      "position": [
+        -34335.58,
+        42357.55
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 18,
+      "position": [
+        -34959.92,
+        41963.15
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "CATCH_INSECT"
+    },
+    {
+      "id": 19,
+      "position": [
+        -35005.5,
+        41953.5
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
