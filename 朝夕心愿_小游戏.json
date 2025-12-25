@@ -7,7 +7,7 @@
     "region": "花愿镇",
     "target": "无",
     "type": "综合",
-    "update_time": "2025-12-8 14:00:39",
+    "update_time": "2025-12-25 15:36:26",
     "version": "2.0"
   },
   "points": [
@@ -96,22 +96,13 @@
     {
       "id": 9,
       "position": [
-        -23103,
-        -44703
+        -23164.12,
+        -44661.85
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
       "action": "MINIGAME",
       "action_params": "朝夕心愿_小游戏_穿梭大冒险_宏"
-    },
-    {
-      "id": 10,
-      "position": [
-        -23103,
-        -44703
-      ],
-      "point_type": "TARGET",
-      "move_mode": "WALK"
     }
   ]
 }

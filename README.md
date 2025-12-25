@@ -4,3 +4,6 @@
 
 ## 如何录制跑图路线
 请查看[路线录制文档](https://docs.qq.com/doc/DRWF3anNXYVdNQVJr)
+
+## 如何录制宏
+请查看[宏录制文档](https://docs.qq.com/doc/DRVFHU0VzbFFZT2xN)

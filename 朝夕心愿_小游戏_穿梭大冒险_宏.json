@@ -2,66 +2,73 @@
   "info": {
     "name": "朝夕心愿_小游戏_穿梭大冒险_宏",
     "type": "宏",
-    "version": "2.0",
-    "update_time": "2025-12-15 17:25:43",
-    "offset": -9.154048442840576
+    "version": "3.0",
+    "update_time": "2025-12-23 00:00:00"
   },
   "steps": [
     {
-      "action": "press",
+      "type": "gap",
+      "duration": 0.5
+    },
+    {
+      "type": "keyboard",
       "key": "w",
-      "position": null,
-      "timestamp": 9.654048442840576,
-      "type": "keyboard"
+      "action": "press"
     },
     {
-      "action": "press",
+      "type": "gap",
+      "duration": 4.452929973602295
+    },
+    {
+      "type": "keyboard",
       "key": "d",
-      "position": null,
-      "timestamp": 14.106978416442871,
-      "type": "keyboard"
+      "action": "press"
     },
     {
-      "action": "release",
+      "type": "gap",
+      "duration": 2.234499740600586
+    },
+    {
+      "type": "keyboard",
       "key": "w",
-      "position": null,
-      "timestamp": 16.341478157043457,
-      "type": "keyboard"
+      "action": "release"
     },
     {
-      "action": "release",
+      "type": "keyboard",
       "key": "d",
-      "position": null,
-      "timestamp": 16.341478157043457,
-      "type": "keyboard"
+      "action": "release"
     },
     {
-      "action": "press",
+      "type": "gap",
+      "duration": 0.3
+    },
+    {
+      "type": "keyboard",
       "key": "w",
-      "position": null,
-      "timestamp": 16.641478157043457,
-      "type": "keyboard"
+      "action": "press"
     },
     {
-      "action": "press",
+      "type": "keyboard",
       "key": "d",
-      "position": null,
-      "timestamp": 16.641478157043457,
-      "type": "keyboard"
+      "action": "press"
     },
     {
-      "action": "release",
+      "type": "gap",
+      "duration": 1.7
+    },
+    {
+      "type": "keyboard",
       "key": "d",
-      "position": null,
-      "timestamp": 18.341478157043457,
-      "type": "keyboard"
+      "action": "release"
     },
     {
-      "action": "release",
+      "type": "gap",
+      "duration": 2.590903806686403
+    },
+    {
+      "type": "keyboard",
       "key": "w",
-      "position": null,
-      "timestamp": 20.93238196372986,
-      "type": "keyboard"
+      "action": "release"
     }
   ]
 }

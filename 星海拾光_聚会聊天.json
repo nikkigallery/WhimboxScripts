@@ -1,0 +1,42 @@
+{
+  "info": {
+    "map": "starsea",
+    "name": "星海拾光_聚会聊天",
+    "region": "星海",
+    "target": "无",
+    "type": "综合",
+    "update_time": "2025-12-25 9:19:59",
+    "version": "2.0",
+    "count": 0
+  },
+  "points": [
+    {
+      "id": 0,
+      "position": [
+        -35059.5,
+        44212.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "TELEPORT"
+    },
+    {
+      "id": 1,
+      "position": [
+        -33441.27,
+        44443.73
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 2,
+      "position": [
+        -33491.89,
+        44679.93
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "info": {
+    "name": "星海拾光_原地急坠_宏",
+    "type": "宏",
+    "update_time": "2025-12-25 13:26:10",
+    "version": "3.0"
+  },
+  "steps": [
+    {
+      "action": "press",
+      "key": "space",
+      "type": "keyboard"
+    },
+    {
+      "duration": 0.1587228775024414,
+      "type": "gap"
+    },
+    {
+      "action": "release",
+      "key": "space",
+      "type": "keyboard"
+    },
+    {
+      "duration": 0.23234057426452637,
+      "type": "gap"
+    },
+    {
+      "action": "press",
+      "key": "q",
+      "type": "keyboard"
+    },
+    {
+      "duration": 0.10042738914489746,
+      "type": "gap"
+    },
+    {
+      "action": "release",
+      "key": "q",
+      "type": "keyboard"
+    }
+  ]
+}

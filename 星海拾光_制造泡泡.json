@@ -1,0 +1,167 @@
+{
+  "info": {
+    "map": "starsea",
+    "name": "星海拾光_制造泡泡",
+    "region": "星海",
+    "target": "无",
+    "type": "综合",
+    "update_time": "2025-12-25 13:33:26",
+    "version": "2.0",
+    "count": 0
+  },
+  "points": [
+    {
+      "id": 0,
+      "position": [
+        18882,
+        42255
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "TELEPORT"
+    },
+    {
+      "id": 1,
+      "position": [
+        19597.5,
+        41431.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 2,
+      "position": [
+        21204,
+        41593.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 3,
+      "position": [
+        25407,
+        44073
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 4,
+      "position": [
+        27325.14,
+        43167.02
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 5,
+      "position": [
+        32353.45,
+        39140.19
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 6,
+      "position": [
+        32634,
+        38632.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "JUMP"
+    },
+    {
+      "id": 7,
+      "position": [
+        32814,
+        38106
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 8,
+      "position": [
+        33040.51,
+        37913.22
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 9,
+      "position": [
+        32931,
+        37692
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "星海拾光_原地急坠_宏"
+    },
+    {
+      "id": 10,
+      "position": [
+        33439.83,
+        37778.09
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 11,
+      "position": [
+        33408,
+        37516.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "星海拾光_原地急坠_宏"
+    },
+    {
+      "id": 12,
+      "position": [
+        33782.9,
+        37778.09
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 13,
+      "position": [
+        33831,
+        37548
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "星海拾光_原地急坠_宏"
+    },
+    {
+      "id": 14,
+      "position": [
+        34131.75,
+        37974.87
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 15,
+      "position": [
+        34312.5,
+        37822.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "星海拾光_原地急坠_宏"
+    }
+  ]
+}
