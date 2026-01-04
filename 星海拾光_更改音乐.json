@@ -1,11 +1,12 @@
 {
   "info": {
     "map": "starsea",
-    "name": "星海拾光_聚会聊天",
+    "name": "星海拾光_更改音乐",
     "region": "星海",
     "target": "无",
+    "test_mode": false,
     "type": "综合",
-    "update_time": "2025-12-25 9:19:59",
+    "update_time": "2026-1-4 17:02:07",
     "version": "2.0",
     "count": 0
   },
@@ -23,21 +24,12 @@
     {
       "id": 1,
       "position": [
-        -33441.27,
-        44443.73
-      ],
-      "point_type": "TARGET",
-      "move_mode": "WALK"
-    },
-    {
-      "id": 2,
-      "position": [
-        -33491.89,
-        44679.93
+        -33120.59,
+        43031.91
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
-      "action": "GROUP_CHAT"
+      "action": "CHANGE_MUSIC"
     }
   ]
 }

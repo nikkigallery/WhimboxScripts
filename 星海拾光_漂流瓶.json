@@ -1,0 +1,85 @@
+{
+  "info": {
+    "map": "starsea",
+    "name": "星海拾光_漂流瓶",
+    "region": "星海",
+    "target": "漂流瓶",
+    "test_mode": false,
+    "type": "综合",
+    "update_time": "2026-1-4 17:24:06",
+    "version": "2.0",
+    "count": 0
+  },
+  "points": [
+    {
+      "id": 0,
+      "position": [
+        -35104.5,
+        44208
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "TELEPORT"
+    },
+    {
+      "id": 1,
+      "position": [
+        -36292.5,
+        41733
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "PICKUP_BOTTLE"
+    },
+    {
+      "id": 2,
+      "position": [
+        -37035,
+        40018.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "PICKUP_BOTTLE"
+    },
+    {
+      "id": 3,
+      "position": [
+        -36558,
+        39262.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "PICKUP_BOTTLE"
+    },
+    {
+      "id": 4,
+      "position": [
+        -35473.5,
+        38745
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "PICKUP_BOTTLE"
+    },
+    {
+      "id": 5,
+      "position": [
+        -34141.5,
+        38268
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "PICKUP_BOTTLE"
+    },
+    {
+      "id": 6,
+      "position": [
+        -34141.5,
+        38268
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "PICKUP_BOTTLE"
+    }
+  ]
+}
