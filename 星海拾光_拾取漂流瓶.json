@@ -1,12 +1,12 @@
 {
   "info": {
     "map": "starsea",
-    "name": "星海拾光_漂流瓶",
+    "name": "星海拾光_拾取漂流瓶",
     "region": "星海",
     "target": "漂流瓶",
     "test_mode": false,
     "type": "综合",
-    "update_time": "2026-1-4 17:24:06",
+    "update_time": "2026-1-5 8:35:47",
     "version": "2.0",
     "count": 0
   },
@@ -14,7 +14,7 @@
     {
       "id": 0,
       "position": [
-        -35104.5,
+        -35059.5,
         44208
       ],
       "point_type": "TARGET",
@@ -24,6 +24,16 @@
     {
       "id": 1,
       "position": [
+        -36027,
+        43825.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "PICKUP_BOTTLE"
+    },
+    {
+      "id": 2,
+      "position": [
         -36292.5,
         41733
       ],
@@ -32,7 +42,7 @@
       "action": "PICKUP_BOTTLE"
     },
     {
-      "id": 2,
+      "id": 3,
       "position": [
         -37035,
         40018.5
@@ -42,7 +52,7 @@
       "action": "PICKUP_BOTTLE"
     },
     {
-      "id": 3,
+      "id": 4,
       "position": [
         -36558,
         39262.5
@@ -52,7 +62,7 @@
       "action": "PICKUP_BOTTLE"
     },
     {
-      "id": 4,
+      "id": 5,
       "position": [
         -35473.5,
         38745
@@ -62,7 +72,7 @@
       "action": "PICKUP_BOTTLE"
     },
     {
-      "id": 5,
+      "id": 6,
       "position": [
         -34141.5,
         38268
@@ -72,7 +82,7 @@
       "action": "PICKUP_BOTTLE"
     },
     {
-      "id": 6,
+      "id": 7,
       "position": [
         -34141.5,
         38268

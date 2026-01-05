@@ -1,0 +1,44 @@
+{
+  "info": {
+    "map": "starsea",
+    "name": "星海拾光_投递漂流瓶",
+    "region": "星海",
+    "target": "无",
+    "test_mode": false,
+    "type": "综合",
+    "update_time": "2026-1-5 9:24:42",
+    "version": "2.0",
+    "count": 0
+  },
+  "points": [
+    {
+      "id": 0,
+      "position": [
+        28786.5,
+        54463.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "TELEPORT"
+    },
+    {
+      "id": 1,
+      "position": [
+        28543.5,
+        51237
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 2,
+      "position": [
+        28948.5,
+        51579
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "DELIVERY_BOTTLE"
+    }
+  ]
+}
