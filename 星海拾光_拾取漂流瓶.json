@@ -4,7 +4,7 @@
     "name": "星海拾光_拾取漂流瓶",
     "region": "星海",
     "target": "漂流瓶",
-    "test_mode": true,
+    "test_mode": false,
     "type": "综合",
     "update_time": "2026-1-6 9:50:36",
     "version": "2.0",
