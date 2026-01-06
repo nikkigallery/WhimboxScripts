@@ -1,0 +1,35 @@
+{
+  "info": {
+    "map": "starsea",
+    "name": "星海拾光_合影漂流瓶",
+    "region": "星海",
+    "target": "无",
+    "test_mode": false,
+    "type": "综合",
+    "update_time": "2026-1-6 8:30:10",
+    "version": "2.0",
+    "count": 0
+  },
+  "points": [
+    {
+      "id": 0,
+      "position": [
+        28786.5,
+        54463.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "TELEPORT"
+    },
+    {
+      "id": 1,
+      "position": [
+        28782.59,
+        54366.06
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "TAKE_PHOTO"
+    }
+  ]
+}

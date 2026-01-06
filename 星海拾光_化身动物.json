@@ -1,0 +1,36 @@
+{
+  "info": {
+    "map": "starsea",
+    "name": "星海拾光_化身动物",
+    "region": "星海",
+    "target": "无",
+    "test_mode": false,
+    "type": "综合",
+    "update_time": "2026-1-6 9:23:45",
+    "version": "2.0",
+    "count": 0
+  },
+  "points": [
+    {
+      "id": 0,
+      "position": [
+        -35064,
+        44208
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "TELEPORT"
+    },
+    {
+      "id": 1,
+      "position": [
+        -33295.5,
+        43033.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "TRANS_ANIMAL",
+      "action_params": "3"
+    }
+  ]
+}
