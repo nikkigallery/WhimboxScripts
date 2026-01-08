@@ -1,0 +1,198 @@
+{
+  "info": {
+    "map": "miraland",
+    "name": "鎏金蜜鎏金蜜南北绿豆",
+    "region": "巨木之森",
+    "target": "鎏金蜜",
+    "test_mode": false,
+    "type": "采集",
+    "update_time": "2026-1-8 15:28:24",
+    "version": "2.0",
+    "count": "100"
+  },
+  "points": [
+    {
+      "id": 0,
+      "position": [
+        -450337.5,
+        -206073
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "TELEPORT"
+    },
+    {
+      "id": 1,
+      "position": [
+        -449914.5,
+        -205713
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 2,
+      "position": [
+        -450495,
+        -203917.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 3,
+      "position": [
+        -451116,
+        -203418
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "FLOURISH"
+    },
+    {
+      "id": 4,
+      "position": [
+        -450439.34,
+        -203270.05
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 5,
+      "position": [
+        -451219.5,
+        -201519
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "FLOURISH"
+    },
+    {
+      "id": 6,
+      "position": [
+        -448569,
+        -200686.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "FLOURISH"
+    },
+    {
+      "id": 7,
+      "position": [
+        -450238.5,
+        -199705.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "FLOURISH"
+    },
+    {
+      "id": 8,
+      "position": [
+        -448926.28,
+        -199388.75
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 9,
+      "position": [
+        -447403.5,
+        -198549
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "FLOURISH"
+    },
+    {
+      "id": 10,
+      "position": [
+        -446607,
+        -199606.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "FLOURISH"
+    },
+    {
+      "id": 11,
+      "position": [
+        -443799,
+        -198355.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "FLOURISH"
+    },
+    {
+      "id": 12,
+      "position": [
+        -445117.5,
+        -197505
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "FLOURISH"
+    },
+    {
+      "id": 13,
+      "position": [
+        -444240,
+        -196434
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 14,
+      "position": [
+        -444870,
+        -195111
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "FLOURISH"
+    },
+    {
+      "id": 15,
+      "position": [
+        -445707,
+        -195264
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 16,
+      "position": [
+        -447493.5,
+        -195043.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "FLOURISH"
+    },
+    {
+      "id": 17,
+      "position": [
+        -446861.9,
+        -194551.38
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 18,
+      "position": [
+        -446494.5,
+        -192645
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "FLOURISH"
+    }
+  ]
+}
