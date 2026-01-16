@@ -1,0 +1,364 @@
+{
+  "info": {
+    "aspect_ratio": "16:9",
+    "name": "进出幻境刷怪宏",
+    "type": "宏",
+    "update_time": "2026-1-16 15:48:34",
+    "version": "3.0"
+  },
+  "steps": [
+    {
+      "type": "loop",
+      "loop_count": 10,
+      "loop_steps": 58
+    },
+    {
+      "action": "press",
+      "key": "l",
+      "type": "keyboard"
+    },
+    {
+      "duration": 0.10271620750427246,
+      "type": "gap"
+    },
+    {
+      "action": "release",
+      "key": "l",
+      "type": "keyboard"
+    },
+    {
+      "duration": 0.9529590606689453,
+      "type": "gap"
+    },
+    {
+      "action": "press",
+      "key": "mouse_left",
+      "position": [
+        1196,
+        304
+      ],
+      "type": "mouse"
+    },
+    {
+      "duration": 0.08730220794677734,
+      "type": "gap"
+    },
+    {
+      "action": "release",
+      "key": "mouse_left",
+      "position": [
+        1196,
+        304
+      ],
+      "type": "mouse"
+    },
+    {
+      "duration": 1.4010024070739746,
+      "type": "gap"
+    },
+    {
+      "action": "press",
+      "key": "mouse_left",
+      "position": [
+        974,
+        885
+      ],
+      "type": "mouse"
+    },
+    {
+      "duration": 0.10029292106628418,
+      "type": "gap"
+    },
+    {
+      "action": "release",
+      "key": "mouse_left",
+      "position": [
+        974,
+        885
+      ],
+      "type": "mouse"
+    },
+    {
+      "duration": 1.5,
+      "type": "gap"
+    },
+    {
+      "action": "press",
+      "key": "mouse_left",
+      "position": [
+        1353,
+        985
+      ],
+      "type": "mouse"
+    },
+    {
+      "duration": 0.09706759452819824,
+      "type": "gap"
+    },
+    {
+      "action": "release",
+      "key": "mouse_left",
+      "position": [
+        1353,
+        985
+      ],
+      "type": "mouse"
+    },
+    {
+      "duration": 2,
+      "type": "gap"
+    },
+    {
+      "target_game_page": "page_main",
+      "type": "wait_game_page"
+    },
+    {
+      "action": "press",
+      "key": "backspace",
+      "type": "keyboard"
+    },
+    {
+      "duration": 0.1256566047668457,
+      "type": "gap"
+    },
+    {
+      "action": "release",
+      "key": "backspace",
+      "type": "keyboard"
+    },
+    {
+      "duration": 2,
+      "type": "gap"
+    },
+    {
+      "target_game_page": "page_main",
+      "type": "wait_game_page"
+    },
+    {
+      "action": "press",
+      "key": "e",
+      "type": "keyboard"
+    },
+    {
+      "duration": 0.11367988586425781,
+      "type": "gap"
+    },
+    {
+      "action": "release",
+      "key": "e",
+      "type": "keyboard"
+    },
+    {
+      "duration": 0.5691661834716797,
+      "type": "gap"
+    },
+    {
+      "action": "press",
+      "key": "mouse_left",
+      "position": [
+        138,
+        1012
+      ],
+      "type": "mouse"
+    },
+    {
+      "duration": 0.06661629676818848,
+      "type": "gap"
+    },
+    {
+      "action": "release",
+      "key": "mouse_left",
+      "position": [
+        138,
+        1012
+      ],
+      "type": "mouse"
+    },
+    {
+      "duration": 0.3520219326019287,
+      "type": "gap"
+    },
+    {
+      "action": "press",
+      "key": "mouse_left",
+      "position": [
+        138,
+        1012
+      ],
+      "type": "mouse"
+    },
+    {
+      "duration": 0.10802197456359863,
+      "type": "gap"
+    },
+    {
+      "action": "release",
+      "key": "mouse_left",
+      "position": [
+        138,
+        1012
+      ],
+      "type": "mouse"
+    },
+    {
+      "duration": 0.4270148277282715,
+      "type": "gap"
+    },
+    {
+      "action": "press",
+      "key": "mouse_left",
+      "position": [
+        138,
+        1012
+      ],
+      "type": "mouse"
+    },
+    {
+      "duration": 0.11638808250427246,
+      "type": "gap"
+    },
+    {
+      "action": "release",
+      "key": "mouse_left",
+      "position": [
+        138,
+        1012
+      ],
+      "type": "mouse"
+    },
+    {
+      "duration": 0.4272637367248535,
+      "type": "gap"
+    },
+    {
+      "action": "press",
+      "key": "mouse_left",
+      "position": [
+        138,
+        1012
+      ],
+      "type": "mouse"
+    },
+    {
+      "duration": 0.14000248908996582,
+      "type": "gap"
+    },
+    {
+      "action": "release",
+      "key": "mouse_left",
+      "position": [
+        138,
+        1012
+      ],
+      "type": "mouse"
+    },
+    {
+      "duration": 0.6114118099212646,
+      "type": "gap"
+    },
+    {
+      "action": "press",
+      "key": "mouse_left",
+      "position": [
+        138,
+        1012
+      ],
+      "type": "mouse"
+    },
+    {
+      "duration": 0.11824178695678711,
+      "type": "gap"
+    },
+    {
+      "action": "release",
+      "key": "mouse_left",
+      "position": [
+        138,
+        1012
+      ],
+      "type": "mouse"
+    },
+    {
+      "duration": 0.5018901824951172,
+      "type": "gap"
+    },
+    {
+      "action": "press",
+      "key": "mouse_left",
+      "position": [
+        138,
+        1012
+      ],
+      "type": "mouse"
+    },
+    {
+      "duration": 0.14143872261047363,
+      "type": "gap"
+    },
+    {
+      "action": "release",
+      "key": "mouse_left",
+      "position": [
+        138,
+        1012
+      ],
+      "type": "mouse"
+    },
+    {
+      "duration": 0.5433659553527832,
+      "type": "gap"
+    },
+    {
+      "action": "press",
+      "key": "mouse_left",
+      "position": [
+        138,
+        1012
+      ],
+      "type": "mouse"
+    },
+    {
+      "duration": 0.14185094833374023,
+      "type": "gap"
+    },
+    {
+      "action": "release",
+      "key": "mouse_left",
+      "position": [
+        138,
+        1012
+      ],
+      "type": "mouse"
+    },
+    {
+      "duration": 0.38334012031555176,
+      "type": "gap"
+    },
+    {
+      "action": "press",
+      "key": "mouse_left",
+      "position": [
+        138,
+        1012
+      ],
+      "type": "mouse"
+    },
+    {
+      "duration": 0.13916373252868652,
+      "type": "gap"
+    },
+    {
+      "action": "release",
+      "key": "mouse_left",
+      "position": [
+        138,
+        1012
+      ],
+      "type": "mouse"
+    },
+    {
+      "duration": 1,
+      "type": "gap"
+    }
+  ]
+}

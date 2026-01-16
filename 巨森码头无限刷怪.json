@@ -1,0 +1,760 @@
+{
+  "info": {
+    "map": "miraland",
+    "name": "巨森码头无限刷怪",
+    "region": "巨木之森",
+    "target": "噗灵丝线",
+    "test_mode": false,
+    "type": "战斗",
+    "update_time": "2026-1-16 15:57:26",
+    "version": "2.0",
+    "count": "160000"
+  },
+  "points": [
+    {
+      "id": 0,
+      "position": [
+        -607495.5,
+        -77481
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "TELEPORT"
+    },
+    {
+      "id": 1,
+      "position": [
+        -606064.5,
+        -76860
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 2,
+      "position": [
+        -604975.5,
+        -76882.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 3,
+      "position": [
+        -604507.5,
+        -76981.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 4,
+      "position": [
+        -604524.99,
+        -77624.47
+      ],
+      "point_type": "TARGET",
+      "move_mode": "JUMP"
+    },
+    {
+      "id": 5,
+      "position": [
+        -604525.5,
+        -78084
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 6,
+      "position": [
+        -604701,
+        -79861.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 7,
+      "position": [
+        -604322.56,
+        -80223.18
+      ],
+      "point_type": "TARGET",
+      "move_mode": "JUMP"
+    },
+    {
+      "id": 8,
+      "position": [
+        -603819,
+        -80590.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 9,
+      "position": [
+        -602784,
+        -80244
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 10,
+      "position": [
+        -601483.5,
+        -80046
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 11,
+      "position": [
+        -600232.5,
+        -80059.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 12,
+      "position": [
+        -599112,
+        -80194.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 13,
+      "position": [
+        -595980,
+        -80329.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 14,
+      "position": [
+        -596087.52,
+        -83721.74
+      ],
+      "point_type": "TARGET",
+      "move_mode": "JUMP"
+    },
+    {
+      "id": 15,
+      "position": [
+        -596110.03,
+        -84008.69
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 16,
+      "position": [
+        -596268,
+        -85693.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 17,
+      "position": [
+        -596194.24,
+        -86365.32
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "进出幻境刷怪宏"
+    },
+    {
+      "id": 18,
+      "position": [
+        -596268,
+        -85693.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 19,
+      "position": [
+        -596194.24,
+        -86365.32
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "进出幻境刷怪宏"
+    },
+    {
+      "id": 20,
+      "position": [
+        -596268,
+        -85693.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 21,
+      "position": [
+        -596194.24,
+        -86365.32
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "进出幻境刷怪宏"
+    },
+    {
+      "id": 22,
+      "position": [
+        -596268,
+        -85693.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 23,
+      "position": [
+        -596194.24,
+        -86365.32
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "进出幻境刷怪宏"
+    },
+    {
+      "id": 24,
+      "position": [
+        -596268,
+        -85693.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 25,
+      "position": [
+        -596194.24,
+        -86365.32
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "进出幻境刷怪宏"
+    },
+    {
+      "id": 26,
+      "position": [
+        -596268,
+        -85693.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 27,
+      "position": [
+        -596194.24,
+        -86365.32
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "进出幻境刷怪宏"
+    },
+    {
+      "id": 28,
+      "position": [
+        -596268,
+        -85693.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 29,
+      "position": [
+        -596194.24,
+        -86365.32
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "进出幻境刷怪宏"
+    },
+    {
+      "id": 30,
+      "position": [
+        -596268,
+        -85693.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 31,
+      "position": [
+        -596194.24,
+        -86365.32
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "进出幻境刷怪宏"
+    },
+    {
+      "id": 32,
+      "position": [
+        -596268,
+        -85693.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 33,
+      "position": [
+        -596194.24,
+        -86365.32
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "进出幻境刷怪宏"
+    },
+    {
+      "id": 34,
+      "position": [
+        -596268,
+        -85693.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 35,
+      "position": [
+        -596194.24,
+        -86365.32
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "进出幻境刷怪宏"
+    },
+    {
+      "id": 36,
+      "position": [
+        -596268,
+        -85693.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 37,
+      "position": [
+        -596194.24,
+        -86365.32
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "进出幻境刷怪宏"
+    },
+    {
+      "id": 38,
+      "position": [
+        -596268,
+        -85693.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 39,
+      "position": [
+        -596194.24,
+        -86365.32
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "进出幻境刷怪宏"
+    },
+    {
+      "id": 40,
+      "position": [
+        -596268,
+        -85693.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 41,
+      "position": [
+        -596194.24,
+        -86365.32
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "进出幻境刷怪宏"
+    },
+    {
+      "id": 42,
+      "position": [
+        -596268,
+        -85693.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 43,
+      "position": [
+        -596194.24,
+        -86365.32
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "进出幻境刷怪宏"
+    },
+    {
+      "id": 44,
+      "position": [
+        -596268,
+        -85693.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 45,
+      "position": [
+        -596194.24,
+        -86365.32
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "进出幻境刷怪宏"
+    },
+    {
+      "id": 46,
+      "position": [
+        -596268,
+        -85693.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 47,
+      "position": [
+        -596194.24,
+        -86365.32
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "进出幻境刷怪宏"
+    },
+    {
+      "id": 48,
+      "position": [
+        -596268,
+        -85693.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 49,
+      "position": [
+        -596194.24,
+        -86365.32
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "进出幻境刷怪宏"
+    },
+    {
+      "id": 50,
+      "position": [
+        -596268,
+        -85693.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 51,
+      "position": [
+        -596194.24,
+        -86365.32
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "进出幻境刷怪宏"
+    },
+    {
+      "id": 52,
+      "position": [
+        -596268,
+        -85693.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 53,
+      "position": [
+        -596194.24,
+        -86365.32
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "进出幻境刷怪宏"
+    },
+    {
+      "id": 54,
+      "position": [
+        -596268,
+        -85693.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 55,
+      "position": [
+        -596194.24,
+        -86365.32
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "进出幻境刷怪宏"
+    },
+    {
+      "id": 56,
+      "position": [
+        -596268,
+        -85693.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 57,
+      "position": [
+        -596194.24,
+        -86365.32
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "进出幻境刷怪宏"
+    },
+    {
+      "id": 58,
+      "position": [
+        -596268,
+        -85693.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 59,
+      "position": [
+        -596194.24,
+        -86365.32
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "进出幻境刷怪宏"
+    },
+    {
+      "id": 60,
+      "position": [
+        -596268,
+        -85693.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 61,
+      "position": [
+        -596194.24,
+        -86365.32
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "进出幻境刷怪宏"
+    },
+    {
+      "id": 62,
+      "position": [
+        -596268,
+        -85693.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 63,
+      "position": [
+        -596194.24,
+        -86365.32
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "进出幻境刷怪宏"
+    },
+    {
+      "id": 64,
+      "position": [
+        -596268,
+        -85693.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 65,
+      "position": [
+        -596194.24,
+        -86365.32
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "进出幻境刷怪宏"
+    },
+    {
+      "id": 66,
+      "position": [
+        -596268,
+        -85693.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 67,
+      "position": [
+        -596194.24,
+        -86365.32
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "进出幻境刷怪宏"
+    },
+    {
+      "id": 68,
+      "position": [
+        -596268,
+        -85693.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 69,
+      "position": [
+        -596194.24,
+        -86365.32
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "进出幻境刷怪宏"
+    },
+    {
+      "id": 70,
+      "position": [
+        -596268,
+        -85693.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 71,
+      "position": [
+        -596194.24,
+        -86365.32
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "进出幻境刷怪宏"
+    },
+    {
+      "id": 72,
+      "position": [
+        -596268,
+        -85693.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 73,
+      "position": [
+        -596194.24,
+        -86365.32
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "进出幻境刷怪宏"
+    },
+    {
+      "id": 74,
+      "position": [
+        -596268,
+        -85693.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 75,
+      "position": [
+        -596194.24,
+        -86365.32
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "进出幻境刷怪宏"
+    }
+  ]
+}
