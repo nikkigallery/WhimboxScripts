@@ -1,0 +1,355 @@
+{
+  "info": {
+    "map": "starsea",
+    "name": "星海拾光_星光结晶收集_星梦群屿",
+    "region": "星海",
+    "target": "无",
+    "test_mode": false,
+    "type": "综合",
+    "update_time": "2026-1-16 13:54:24",
+    "version": "2.0",
+    "count": 0
+  },
+  "points": [
+    {
+      "id": 0,
+      "position": [
+        18868.5,
+        42322.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "TELEPORT"
+    },
+    {
+      "id": 1,
+      "position": [
+        13972.5,
+        42768
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 2,
+      "position": [
+        13752,
+        42849
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 3,
+      "position": [
+        13765.5,
+        43677
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 4,
+      "position": [
+        14719.5,
+        44932.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 5,
+      "position": [
+        15183,
+        45832.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 6,
+      "position": [
+        14053.5,
+        46737
+      ],
+      "point_type": "TARGET",
+      "move_mode": "JUMP"
+    },
+    {
+      "id": 7,
+      "position": [
+        13869,
+        47097
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 8,
+      "position": [
+        13576.5,
+        47686.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 9,
+      "position": [
+        13696.32,
+        48251.72
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 10,
+      "position": [
+        16582.5,
+        47556
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 11,
+      "position": [
+        18441,
+        47254.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 12,
+      "position": [
+        19399.5,
+        47016
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 13,
+      "position": [
+        20440.4,
+        48488.05
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 14,
+      "position": [
+        20046.85,
+        49117.96
+      ],
+      "point_type": "TARGET",
+      "move_mode": "JUMP"
+    },
+    {
+      "id": 15,
+      "position": [
+        19979.36,
+        49292.29
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "WAIT",
+      "action_params": "1.5"
+    },
+    {
+      "id": 16,
+      "position": [
+        19579.5,
+        49437
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 17,
+      "position": [
+        19291.5,
+        49671
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 18,
+      "position": [
+        18963,
+        49698
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 19,
+      "position": [
+        19056.95,
+        49753.56
+      ],
+      "point_type": "TARGET",
+      "move_mode": "JUMP"
+    },
+    {
+      "id": 20,
+      "position": [
+        19336.5,
+        49792.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "JUMP",
+      "action": "WAIT",
+      "action_params": "2"
+    },
+    {
+      "id": 21,
+      "position": [
+        19701,
+        49837.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 22,
+      "position": [
+        22104,
+        50598
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 23,
+      "position": [
+        22468.5,
+        52848
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 24,
+      "position": [
+        21663,
+        53217
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 25,
+      "position": [
+        21505.5,
+        53622
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 26,
+      "position": [
+        21388.5,
+        54189
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 27,
+      "position": [
+        21663,
+        55089
+      ],
+      "point_type": "TARGET",
+      "move_mode": "JUMP"
+    },
+    {
+      "id": 28,
+      "position": [
+        21217.5,
+        55669.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "WAIT",
+      "action_params": "2"
+    },
+    {
+      "id": 29,
+      "position": [
+        21996,
+        55989
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 30,
+      "position": [
+        23544,
+        56164.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 31,
+      "position": [
+        24804,
+        55737
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 32,
+      "position": [
+        25650,
+        56182.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 33,
+      "position": [
+        25983,
+        56245.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 34,
+      "position": [
+        26509.5,
+        56092.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 35,
+      "position": [
+        27427.5,
+        55377
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 36,
+      "position": [
+        28408.5,
+        54643.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    }
+  ]
+}
