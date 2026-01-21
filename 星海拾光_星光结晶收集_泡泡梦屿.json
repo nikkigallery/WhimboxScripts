@@ -6,7 +6,7 @@
     "target": "无",
     "test_mode": false,
     "type": "综合",
-    "update_time": "2026-1-16 13:56:36",
+    "update_time": "2026-1-21 15:01:11",
     "version": "2.0",
     "count": 0
   },
@@ -486,15 +486,6 @@
     {
       "id": 51,
       "position": [
-        32467.5,
-        38767.5
-      ],
-      "point_type": "TARGET",
-      "move_mode": "WALK"
-    },
-    {
-      "id": 52,
-      "position": [
         32624.3,
         38666.46
       ],
@@ -502,7 +493,7 @@
       "move_mode": "JUMP"
     },
     {
-      "id": 53,
+      "id": 52,
       "position": [
         32697,
         38412
@@ -511,7 +502,7 @@
       "move_mode": "WALK"
     },
     {
-      "id": 54,
+      "id": 53,
       "position": [
         33093,
         37926
@@ -520,7 +511,7 @@
       "move_mode": "WALK"
     },
     {
-      "id": 55,
+      "id": 54,
       "position": [
         33529.5,
         37827
@@ -529,7 +520,7 @@
       "move_mode": "WALK"
     },
     {
-      "id": 56,
+      "id": 55,
       "position": [
         33957,
         38002.5
@@ -538,7 +529,7 @@
       "move_mode": "WALK"
     },
     {
-      "id": 57,
+      "id": 56,
       "position": [
         34173,
         38227.5
@@ -547,7 +538,7 @@
       "move_mode": "WALK"
     },
     {
-      "id": 58,
+      "id": 57,
       "position": [
         34272.2,
         38773.83
@@ -556,10 +547,19 @@
       "move_mode": "WALK"
     },
     {
-      "id": 59,
+      "id": 58,
       "position": [
         34103.48,
         39319.33
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 59,
+      "position": [
+        33771.69,
+        39712.88
       ],
       "point_type": "TARGET",
       "move_mode": "JUMP"
@@ -567,8 +567,8 @@
     {
       "id": 60,
       "position": [
-        33529.5,
-        38808
+        32733,
+        39249
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
@@ -578,42 +578,6 @@
     {
       "id": 61,
       "position": [
-        33057,
-        39082.5
-      ],
-      "point_type": "TARGET",
-      "move_mode": "JUMP"
-    },
-    {
-      "id": 62,
-      "position": [
-        32733,
-        39307.5
-      ],
-      "point_type": "TARGET",
-      "move_mode": "WALK"
-    },
-    {
-      "id": 63,
-      "position": [
-        32634,
-        39528
-      ],
-      "point_type": "TARGET",
-      "move_mode": "WALK"
-    },
-    {
-      "id": 64,
-      "position": [
-        32692.5,
-        39802.5
-      ],
-      "point_type": "TARGET",
-      "move_mode": "WALK"
-    },
-    {
-      "id": 65,
-      "position": [
         32931,
         39708
       ],
@@ -621,7 +585,7 @@
       "move_mode": "WALK"
     },
     {
-      "id": 66,
+      "id": 62,
       "position": [
         32940,
         40329
@@ -630,7 +594,7 @@
       "move_mode": "WALK"
     },
     {
-      "id": 67,
+      "id": 63,
       "position": [
         33057,
         41067
@@ -639,7 +603,7 @@
       "move_mode": "WALK"
     },
     {
-      "id": 68,
+      "id": 64,
       "position": [
         33174,
         41310
@@ -648,7 +612,7 @@
       "move_mode": "JUMP"
     },
     {
-      "id": 69,
+      "id": 65,
       "position": [
         33569.4,
         41513.34
@@ -659,7 +623,7 @@
       "action_params": "1"
     },
     {
-      "id": 70,
+      "id": 66,
       "position": [
         33676.12,
         42671.76
@@ -668,7 +632,7 @@
       "move_mode": "WALK"
     },
     {
-      "id": 71,
+      "id": 67,
       "position": [
         33709.5,
         43335
@@ -677,7 +641,7 @@
       "move_mode": "WALK"
     },
     {
-      "id": 72,
+      "id": 68,
       "position": [
         33552,
         43848
@@ -686,7 +650,7 @@
       "move_mode": "WALK"
     },
     {
-      "id": 73,
+      "id": 69,
       "position": [
         33174,
         44190
@@ -695,7 +659,7 @@
       "move_mode": "WALK"
     },
     {
-      "id": 74,
+      "id": 70,
       "position": [
         32877,
         44298
@@ -704,7 +668,7 @@
       "move_mode": "WALK"
     },
     {
-      "id": 75,
+      "id": 71,
       "position": [
         32391,
         44370
@@ -713,7 +677,7 @@
       "move_mode": "WALK"
     },
     {
-      "id": 76,
+      "id": 72,
       "position": [
         31914,
         44298
@@ -722,7 +686,7 @@
       "move_mode": "WALK"
     },
     {
-      "id": 77,
+      "id": 73,
       "position": [
         31302,
         43834.5
@@ -731,7 +695,7 @@
       "move_mode": "WALK"
     },
     {
-      "id": 78,
+      "id": 74,
       "position": [
         31131,
         43488
@@ -740,7 +704,7 @@
       "move_mode": "WALK"
     },
     {
-      "id": 79,
+      "id": 75,
       "position": [
         31054.5,
         43105.5
@@ -749,7 +713,7 @@
       "move_mode": "WALK"
     },
     {
-      "id": 80,
+      "id": 76,
       "position": [
         31113,
         42772.5
@@ -758,7 +722,7 @@
       "move_mode": "JUMP"
     },
     {
-      "id": 81,
+      "id": 77,
       "position": [
         31239,
         42313.5
