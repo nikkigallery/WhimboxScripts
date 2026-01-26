@@ -30,7 +30,7 @@
       "point_type": "TARGET",
       "move_mode": "WALK",
       "action": "TRANS_ANIMAL",
-      "action_params": "3"
+      "action_params": "5"
     }
   ]
 }
