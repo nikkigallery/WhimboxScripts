@@ -3,7 +3,7 @@
     "aspect_ratio": "16:9",
     "name": "进出幻境刷怪宏",
     "type": "宏",
-    "update_time": "2026-1-16 15:48:34",
+    "update_time": "2026-1-22 19:25:25",
     "version": "3.0"
   },
   "steps": [
@@ -27,7 +27,7 @@
       "type": "keyboard"
     },
     {
-      "duration": 0.9529590606689453,
+      "duration": 1.5,
       "type": "gap"
     },
     {
