@@ -6,7 +6,7 @@
     "target": "无",
     "test_mode": false,
     "type": "综合",
-    "update_time": "2026-1-6 9:23:45",
+    "update_time": "2026-2-1 20:16:03",
     "version": "2.0",
     "count": 0
   },
@@ -24,8 +24,17 @@
     {
       "id": 1,
       "position": [
-        -33295.5,
-        43033.5
+        -33948,
+        43132.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 2,
+      "position": [
+        -33327,
+        42948
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
