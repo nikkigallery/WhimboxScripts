@@ -6,7 +6,7 @@
     "target": "无",
     "test_mode": false,
     "type": "综合",
-    "update_time": "2026-1-20 9:57:43",
+    "update_time": "2026-3-2 14:27:34",
     "version": "2.0",
     "count": 0
   },
@@ -44,8 +44,8 @@
     {
       "id": 3,
       "position": [
-        -15669,
-        17361
+        -15733.61,
+        17314.49
       ],
       "point_type": "TARGET",
       "move_mode": "JUMP",
@@ -73,8 +73,8 @@
     {
       "id": 6,
       "position": [
-        -14339.12,
-        17971.96
+        -14378.04,
+        18017.48
       ],
       "point_type": "TARGET",
       "move_mode": "JUMP",
@@ -93,8 +93,8 @@
     {
       "id": 8,
       "position": [
-        -12987,
-        16402.5
+        -13050.63,
+        16442.43
       ],
       "point_type": "TARGET",
       "move_mode": "JUMP",
@@ -293,8 +293,8 @@
     {
       "id": 30,
       "position": [
-        -8500.5,
-        20371.5
+        -8454.82,
+        20469.94
       ],
       "point_type": "TARGET",
       "move_mode": "JUMP"
