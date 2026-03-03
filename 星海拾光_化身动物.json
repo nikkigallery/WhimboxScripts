@@ -6,7 +6,7 @@
     "target": "无",
     "test_mode": false,
     "type": "综合",
-    "update_time": "2026-2-1 20:16:03",
+    "update_time": "2026-3-3 17:01:55",
     "version": "2.0",
     "count": 0
   },
@@ -14,8 +14,8 @@
     {
       "id": 0,
       "position": [
-        -35064,
-        44208
+        28768.5,
+        54589.5
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
@@ -24,8 +24,8 @@
     {
       "id": 1,
       "position": [
-        -33948,
-        43132.5
+        29488.5,
+        57802.5
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -33,13 +33,101 @@
     {
       "id": 2,
       "position": [
-        -33327,
-        42948
+        29677.5,
+        61762.5
       ],
       "point_type": "TARGET",
-      "move_mode": "WALK",
-      "action": "TRANS_ANIMAL",
-      "action_params": "5"
+      "move_mode": "WALK"
+    },
+    {
+      "id": 3,
+      "position": [
+        30044.27,
+        62585.62
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 4,
+      "position": [
+        29869.86,
+        62225.62
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 3,
+      "position": [
+        30044.27,
+        62585.62
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 4,
+      "position": [
+        29869.86,
+        62225.62
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 3,
+      "position": [
+        30044.27,
+        62585.62
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 4,
+      "position": [
+        29869.86,
+        62225.62
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 3,
+      "position": [
+        30044.27,
+        62585.62
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 4,
+      "position": [
+        29869.86,
+        62225.62
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 3,
+      "position": [
+        30044.27,
+        62585.62
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 4,
+      "position": [
+        29869.86,
+        62225.62
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
     }
   ]
 }
