@@ -1,0 +1,165 @@
+{
+  "info": {
+    "map": "home",
+    "name": "家园日常",
+    "region": "home",
+    "target": "无",
+    "test_mode": false,
+    "type": "综合",
+    "update_time": "2026-3-6 9:32:17",
+    "version": "2.0",
+    "count": 0
+  },
+  "points": [
+    {
+      "id": 0,
+      "position": [
+        4806,
+        8928
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "TELEPORT"
+    },
+    {
+      "id": 1,
+      "position": [
+        4860,
+        9076.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "FISHING_STAR"
+    },
+    {
+      "id": 2,
+      "position": [
+        5503.5,
+        8419.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "JUMP"
+    },
+    {
+      "id": 3,
+      "position": [
+        5895,
+        8172
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 4,
+      "position": [
+        6547.5,
+        8059.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "JUMP"
+    },
+    {
+      "id": 5,
+      "position": [
+        6991.16,
+        8027.22
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "星海拾光_原地急坠_宏"
+    },
+    {
+      "id": 5,
+      "position": [
+        6991.16,
+        8027.22
+      ],
+      "point_type": "TARGET",
+      "move_mode": "JUMP"
+    },
+    {
+      "id": 6,
+      "position": [
+        4698,
+        6426
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 7,
+      "position": [
+        3969,
+        4972.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 8,
+      "position": [
+        3001.5,
+        4081.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 9,
+      "position": [
+        1278,
+        3901.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "星海拾光_原地急坠_宏"
+    },
+    {
+      "id": 10,
+      "position": [
+        1323,
+        4140
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 11,
+      "position": [
+        922.5,
+        4203
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 12,
+      "position": [
+        882.73,
+        3657.04
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 13,
+      "position": [
+        1366.4,
+        3623.3
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 14,
+      "position": [
+        1359,
+        3901.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    }
+  ]
+}
