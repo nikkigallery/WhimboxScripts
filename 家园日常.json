@@ -6,7 +6,7 @@
     "target": "无",
     "test_mode": false,
     "type": "综合",
-    "update_time": "2026-3-6 9:32:17",
+    "update_time": "2026-3-16 19:59:07",
     "version": "2.0",
     "count": 0
   },
@@ -14,8 +14,8 @@
     {
       "id": 0,
       "position": [
-        4806,
-        8928
+        4707,
+        8847
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
@@ -24,65 +24,54 @@
     {
       "id": 1,
       "position": [
-        4860,
-        9076.5
+        5148,
+        8536.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 2,
+      "position": [
+        5118.06,
+        8820.6
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
       "action": "FISHING_STAR"
     },
     {
-      "id": 2,
+      "id": 3,
       "position": [
-        5503.5,
-        8419.5
+        5395.5,
+        8536.5
       ],
       "point_type": "TARGET",
       "move_mode": "JUMP"
     },
     {
-      "id": 3,
+      "id": 4,
       "position": [
-        5895,
-        8172
+        5683.5,
+        8311.5
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
     },
     {
-      "id": 4,
-      "position": [
-        6547.5,
-        8059.5
-      ],
-      "point_type": "TARGET",
-      "move_mode": "JUMP"
-    },
-    {
       "id": 5,
       "position": [
-        6991.16,
-        8027.22
+        6377.94,
+        10226.58
       ],
       "point_type": "TARGET",
-      "move_mode": "WALK",
-      "action": "MACRO",
-      "action_params": "星海拾光_原地急坠_宏"
-    },
-    {
-      "id": 5,
-      "position": [
-        6991.16,
-        8027.22
-      ],
-      "point_type": "TARGET",
-      "move_mode": "JUMP"
+      "move_mode": "WALK"
     },
     {
       "id": 6,
       "position": [
-        4698,
-        6426
+        5688,
+        11344.5
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -90,17 +79,18 @@
     {
       "id": 7,
       "position": [
-        3969,
-        4972.5
+        4801.5,
+        11088
       ],
       "point_type": "TARGET",
-      "move_mode": "WALK"
+      "move_mode": "WALK",
+      "action": "FISHING_STAR"
     },
     {
       "id": 8,
       "position": [
-        3001.5,
-        4081.5
+        6003,
+        11124
       ],
       "point_type": "TARGET",
       "move_mode": "WALK"
@@ -108,8 +98,17 @@
     {
       "id": 9,
       "position": [
-        1278,
-        3901.5
+        6835.5,
+        8896.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "JUMP"
+    },
+    {
+      "id": 10,
+      "position": [
+        7015.5,
+        8064
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
@@ -117,49 +116,36 @@
       "action_params": "星海拾光_原地急坠_宏"
     },
     {
-      "id": 10,
-      "position": [
-        1323,
-        4140
-      ],
-      "point_type": "TARGET",
-      "move_mode": "WALK"
-    },
-    {
       "id": 11,
       "position": [
-        922.5,
-        4203
+        1255.5,
+        4063.5
       ],
       "point_type": "TARGET",
-      "move_mode": "WALK"
+      "move_mode": "WALK",
+      "action": "TELEPORT"
     },
     {
       "id": 12,
       "position": [
-        882.73,
-        3657.04
+        1255.5,
+        4063.5
       ],
       "point_type": "TARGET",
-      "move_mode": "WALK"
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "星海拾光_原地急坠_宏"
     },
     {
       "id": 13,
       "position": [
-        1366.4,
-        3623.3
+        1255.5,
+        4063.5
       ],
       "point_type": "TARGET",
-      "move_mode": "WALK"
-    },
-    {
-      "id": 14,
-      "position": [
-        1359,
-        3901.5
-      ],
-      "point_type": "TARGET",
-      "move_mode": "WALK"
+      "move_mode": "WALK",
+      "action": "WAIT",
+      "action_params": "2"
     }
   ]
 }
