@@ -1,0 +1,925 @@
+{
+  "info": {
+    "map": "miraland",
+    "name": "咻咻快道刷噗灵",
+    "region": "巨木之森",
+    "target": "噗灵",
+    "test_mode": false,
+    "type": "综合",
+    "update_time": "2026-3-24 9:50:15",
+    "version": "2.0",
+    "count": "160000"
+  },
+  "points": [
+    {
+      "id": 0,
+      "position": [
+        -517950,
+        -234490.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "TELEPORT"
+    },
+    {
+      "id": 1,
+      "position": [
+        -517950,
+        -234490.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "SHAPESHIFTING"
+    },
+    {
+      "id": 2,
+      "position": [
+        -515281.5,
+        -233172
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 3,
+      "position": [
+        -515187,
+        -232699.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "咻咻快道刷噗灵宏"
+    },
+    {
+      "id": 1,
+      "position": [
+        -517950,
+        -234490.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "TELEPORT"
+    },
+    {
+      "id": 2,
+      "position": [
+        -515281.5,
+        -233172
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 3,
+      "position": [
+        -515187,
+        -232699.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "咻咻快道刷噗灵宏"
+    },
+    {
+      "id": 1,
+      "position": [
+        -517950,
+        -234490.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "SHAPESHIFTING"
+    },
+    {
+      "id": 2,
+      "position": [
+        -515281.5,
+        -233172
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 3,
+      "position": [
+        -515187,
+        -232699.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "咻咻快道刷噗灵宏"
+    },
+    {
+      "id": 1,
+      "position": [
+        -517950,
+        -234490.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "SHAPESHIFTING"
+    },
+    {
+      "id": 2,
+      "position": [
+        -515281.5,
+        -233172
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 3,
+      "position": [
+        -515187,
+        -232699.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "咻咻快道刷噗灵宏"
+    },
+    {
+      "id": 1,
+      "position": [
+        -517950,
+        -234490.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "SHAPESHIFTING"
+    },
+    {
+      "id": 2,
+      "position": [
+        -515281.5,
+        -233172
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 3,
+      "position": [
+        -515187,
+        -232699.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "咻咻快道刷噗灵宏"
+    },
+    {
+      "id": 1,
+      "position": [
+        -517950,
+        -234490.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "SHAPESHIFTING"
+    },
+    {
+      "id": 2,
+      "position": [
+        -515281.5,
+        -233172
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 3,
+      "position": [
+        -515187,
+        -232699.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "咻咻快道刷噗灵宏"
+    },
+    {
+      "id": 1,
+      "position": [
+        -517950,
+        -234490.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "SHAPESHIFTING"
+    },
+    {
+      "id": 2,
+      "position": [
+        -515281.5,
+        -233172
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 3,
+      "position": [
+        -515187,
+        -232699.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "咻咻快道刷噗灵宏"
+    },
+    {
+      "id": 1,
+      "position": [
+        -517950,
+        -234490.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "SHAPESHIFTING"
+    },
+    {
+      "id": 2,
+      "position": [
+        -515281.5,
+        -233172
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 3,
+      "position": [
+        -515187,
+        -232699.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "咻咻快道刷噗灵宏"
+    },
+    {
+      "id": 1,
+      "position": [
+        -517950,
+        -234490.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "SHAPESHIFTING"
+    },
+    {
+      "id": 2,
+      "position": [
+        -515281.5,
+        -233172
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 3,
+      "position": [
+        -515187,
+        -232699.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "咻咻快道刷噗灵宏"
+    },
+    {
+      "id": 1,
+      "position": [
+        -517950,
+        -234490.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "SHAPESHIFTING"
+    },
+    {
+      "id": 2,
+      "position": [
+        -515281.5,
+        -233172
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 3,
+      "position": [
+        -515187,
+        -232699.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "咻咻快道刷噗灵宏"
+    },
+    {
+      "id": 1,
+      "position": [
+        -517950,
+        -234490.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "SHAPESHIFTING"
+    },
+    {
+      "id": 2,
+      "position": [
+        -515281.5,
+        -233172
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 3,
+      "position": [
+        -515187,
+        -232699.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "咻咻快道刷噗灵宏"
+    },
+    {
+      "id": 1,
+      "position": [
+        -517950,
+        -234490.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "SHAPESHIFTING"
+    },
+    {
+      "id": 2,
+      "position": [
+        -515281.5,
+        -233172
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 3,
+      "position": [
+        -515187,
+        -232699.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "咻咻快道刷噗灵宏"
+    },
+    {
+      "id": 1,
+      "position": [
+        -517950,
+        -234490.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "SHAPESHIFTING"
+    },
+    {
+      "id": 2,
+      "position": [
+        -515281.5,
+        -233172
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 3,
+      "position": [
+        -515187,
+        -232699.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "咻咻快道刷噗灵宏"
+    },
+    {
+      "id": 1,
+      "position": [
+        -517950,
+        -234490.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "SHAPESHIFTING"
+    },
+    {
+      "id": 2,
+      "position": [
+        -515281.5,
+        -233172
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 3,
+      "position": [
+        -515187,
+        -232699.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "咻咻快道刷噗灵宏"
+    },
+    {
+      "id": 1,
+      "position": [
+        -517950,
+        -234490.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "SHAPESHIFTING"
+    },
+    {
+      "id": 2,
+      "position": [
+        -515281.5,
+        -233172
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 3,
+      "position": [
+        -515187,
+        -232699.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "咻咻快道刷噗灵宏"
+    },
+    {
+      "id": 1,
+      "position": [
+        -517950,
+        -234490.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "SHAPESHIFTING"
+    },
+    {
+      "id": 2,
+      "position": [
+        -515281.5,
+        -233172
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 3,
+      "position": [
+        -515187,
+        -232699.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "咻咻快道刷噗灵宏"
+    },
+    {
+      "id": 1,
+      "position": [
+        -517950,
+        -234490.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "SHAPESHIFTING"
+    },
+    {
+      "id": 2,
+      "position": [
+        -515281.5,
+        -233172
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 3,
+      "position": [
+        -515187,
+        -232699.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "咻咻快道刷噗灵宏"
+    },
+    {
+      "id": 1,
+      "position": [
+        -517950,
+        -234490.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "SHAPESHIFTING"
+    },
+    {
+      "id": 2,
+      "position": [
+        -515281.5,
+        -233172
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 3,
+      "position": [
+        -515187,
+        -232699.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "咻咻快道刷噗灵宏"
+    },
+    {
+      "id": 1,
+      "position": [
+        -517950,
+        -234490.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "SHAPESHIFTING"
+    },
+    {
+      "id": 2,
+      "position": [
+        -515281.5,
+        -233172
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 3,
+      "position": [
+        -515187,
+        -232699.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "咻咻快道刷噗灵宏"
+    },
+    {
+      "id": 1,
+      "position": [
+        -517950,
+        -234490.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "SHAPESHIFTING"
+    },
+    {
+      "id": 2,
+      "position": [
+        -515281.5,
+        -233172
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 3,
+      "position": [
+        -515187,
+        -232699.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "咻咻快道刷噗灵宏"
+    },
+    {
+      "id": 1,
+      "position": [
+        -517950,
+        -234490.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "SHAPESHIFTING"
+    },
+    {
+      "id": 2,
+      "position": [
+        -515281.5,
+        -233172
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 3,
+      "position": [
+        -515187,
+        -232699.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "咻咻快道刷噗灵宏"
+    },
+    {
+      "id": 1,
+      "position": [
+        -517950,
+        -234490.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "SHAPESHIFTING"
+    },
+    {
+      "id": 2,
+      "position": [
+        -515281.5,
+        -233172
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 3,
+      "position": [
+        -515187,
+        -232699.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "咻咻快道刷噗灵宏"
+    },
+    {
+      "id": 1,
+      "position": [
+        -517950,
+        -234490.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "SHAPESHIFTING"
+    },
+    {
+      "id": 2,
+      "position": [
+        -515281.5,
+        -233172
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 3,
+      "position": [
+        -515187,
+        -232699.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "咻咻快道刷噗灵宏"
+    },
+    {
+      "id": 1,
+      "position": [
+        -517950,
+        -234490.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "SHAPESHIFTING"
+    },
+    {
+      "id": 2,
+      "position": [
+        -515281.5,
+        -233172
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 3,
+      "position": [
+        -515187,
+        -232699.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "咻咻快道刷噗灵宏"
+    },
+    {
+      "id": 1,
+      "position": [
+        -517950,
+        -234490.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "SHAPESHIFTING"
+    },
+    {
+      "id": 2,
+      "position": [
+        -515281.5,
+        -233172
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 3,
+      "position": [
+        -515187,
+        -232699.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "咻咻快道刷噗灵宏"
+    },
+    {
+      "id": 1,
+      "position": [
+        -517950,
+        -234490.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "SHAPESHIFTING"
+    },
+    {
+      "id": 2,
+      "position": [
+        -515281.5,
+        -233172
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 3,
+      "position": [
+        -515187,
+        -232699.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "咻咻快道刷噗灵宏"
+    },
+    {
+      "id": 1,
+      "position": [
+        -517950,
+        -234490.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "SHAPESHIFTING"
+    },
+    {
+      "id": 2,
+      "position": [
+        -515281.5,
+        -233172
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 3,
+      "position": [
+        -515187,
+        -232699.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "咻咻快道刷噗灵宏"
+    },
+    {
+      "id": 1,
+      "position": [
+        -517950,
+        -234490.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "SHAPESHIFTING"
+    },
+    {
+      "id": 2,
+      "position": [
+        -515281.5,
+        -233172
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 3,
+      "position": [
+        -515187,
+        -232699.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "咻咻快道刷噗灵宏"
+    },
+    {
+      "id": 1,
+      "position": [
+        -517950,
+        -234490.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "SHAPESHIFTING"
+    },
+    {
+      "id": 2,
+      "position": [
+        -515281.5,
+        -233172
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 3,
+      "position": [
+        -515187,
+        -232699.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "咻咻快道刷噗灵宏"
+    },
+    {
+      "id": 1,
+      "position": [
+        -517950,
+        -234490.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "SHAPESHIFTING"
+    },
+    {
+      "id": 2,
+      "position": [
+        -515281.5,
+        -233172
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 3,
+      "position": [
+        -515187,
+        -232699.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "咻咻快道刷噗灵宏"
+    }
+  ]
+}

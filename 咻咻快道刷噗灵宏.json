@@ -1,0 +1,72 @@
+{
+  "info": {
+    "name": "咻咻快道刷噗灵宏",
+    "type": "宏",
+    "update_time": "2026-3-24 9:53:53",
+    "version": "3.0"
+  },
+  "steps": [
+    {
+      "type": "loop",
+      "loop_count": 20,
+      "loop_steps": 4
+    },
+    {
+      "type": "keyboard",
+      "key": "f",
+      "action": "press"
+    },
+    {
+      "duration": 0.12,
+      "type": "gap"
+    },
+    {
+      "action": "release",
+      "key": "f",
+      "type": "keyboard"
+    },
+    {
+      "duration": 0.20,
+      "type": "gap"
+    },
+    {
+      "target_game_page": "主界面",
+      "type": "wait_game_page"
+    },
+    {
+      "duration": 75,
+      "type": "gap"
+    },
+    {
+      "target_game_page": "主界面",
+      "type": "wait_not_game_page"
+    },
+    {
+      "type": "loop",
+      "loop_count": 3,
+      "loop_steps": 4
+    },
+    {
+      "action": "press",
+      "key": "f",
+      "type": "keyboard"
+    },
+    {
+      "duration": 0.12,
+      "type": "gap"
+    },
+    {
+      "action": "release",
+      "key": "f",
+      "type": "keyboard"
+    },
+    {
+      "duration": 0.20,
+      "type": "gap"
+    },
+    {
+      "target_game_page": "主界面",
+      "type": "wait_game_page"
+    }
+  ]
+}
