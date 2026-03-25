@@ -47,7 +47,7 @@
       "type": "wait_game_page"
     },
     {
-      "duration": 0.5,
+      "duration": 1,
       "type": "gap"
     },
     {
@@ -71,6 +71,10 @@
     {
       "target_game_page": "主界面",
       "type": "wait_game_page"
+    },
+    {
+      "duration": 0.5,
+      "type": "gap"
     },
     {
       "action": "press",

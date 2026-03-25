@@ -2,7 +2,7 @@
   "info": {
     "name": "咻咻快道刷噗灵宏",
     "type": "宏",
-    "update_time": "2026-3-24 9:53:53",
+    "update_time": "2026-3-25 10:23:18",
     "version": "3.0"
   },
   "steps": [
@@ -26,7 +26,7 @@
       "type": "keyboard"
     },
     {
-      "duration": 0.20,
+      "duration": 0.2,
       "type": "gap"
     },
     {
@@ -34,7 +34,7 @@
       "type": "wait_game_page"
     },
     {
-      "duration": 75,
+      "duration": 70,
       "type": "gap"
     },
     {
@@ -42,8 +42,12 @@
       "type": "wait_not_game_page"
     },
     {
+      "type": "gap",
+      "duration": 3
+    },
+    {
       "type": "loop",
-      "loop_count": 3,
+      "loop_count": 5,
       "loop_steps": 4
     },
     {
@@ -61,7 +65,7 @@
       "type": "keyboard"
     },
     {
-      "duration": 0.20,
+      "duration": 0.2,
       "type": "gap"
     },
     {

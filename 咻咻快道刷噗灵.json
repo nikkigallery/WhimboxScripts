@@ -89,7 +89,7 @@
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
-      "action": "SHAPESHIFTING"
+      "action": "TELEPORT"
     },
     {
       "id": 2,
@@ -119,7 +119,7 @@
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
-      "action": "SHAPESHIFTING"
+      "action": "TELEPORT"
     },
     {
       "id": 2,
@@ -149,7 +149,7 @@
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
-      "action": "SHAPESHIFTING"
+      "action": "TELEPORT"
     },
     {
       "id": 2,
@@ -179,7 +179,7 @@
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
-      "action": "SHAPESHIFTING"
+      "action": "TELEPORT"
     },
     {
       "id": 2,
@@ -209,7 +209,7 @@
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
-      "action": "SHAPESHIFTING"
+      "action": "TELEPORT"
     },
     {
       "id": 2,
@@ -239,7 +239,7 @@
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
-      "action": "SHAPESHIFTING"
+      "action": "TELEPORT"
     },
     {
       "id": 2,
@@ -269,7 +269,7 @@
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
-      "action": "SHAPESHIFTING"
+      "action": "TELEPORT"
     },
     {
       "id": 2,
@@ -299,7 +299,7 @@
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
-      "action": "SHAPESHIFTING"
+      "action": "TELEPORT"
     },
     {
       "id": 2,
@@ -329,7 +329,7 @@
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
-      "action": "SHAPESHIFTING"
+      "action": "TELEPORT"
     },
     {
       "id": 2,
@@ -359,7 +359,7 @@
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
-      "action": "SHAPESHIFTING"
+      "action": "TELEPORT"
     },
     {
       "id": 2,
@@ -389,7 +389,7 @@
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
-      "action": "SHAPESHIFTING"
+      "action": "TELEPORT"
     },
     {
       "id": 2,
@@ -419,7 +419,7 @@
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
-      "action": "SHAPESHIFTING"
+      "action": "TELEPORT"
     },
     {
       "id": 2,
@@ -449,7 +449,7 @@
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
-      "action": "SHAPESHIFTING"
+      "action": "TELEPORT"
     },
     {
       "id": 2,
@@ -479,7 +479,7 @@
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
-      "action": "SHAPESHIFTING"
+      "action": "TELEPORT"
     },
     {
       "id": 2,
@@ -509,7 +509,7 @@
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
-      "action": "SHAPESHIFTING"
+      "action": "TELEPORT"
     },
     {
       "id": 2,
@@ -539,7 +539,7 @@
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
-      "action": "SHAPESHIFTING"
+      "action": "TELEPORT"
     },
     {
       "id": 2,
@@ -569,7 +569,7 @@
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
-      "action": "SHAPESHIFTING"
+      "action": "TELEPORT"
     },
     {
       "id": 2,
@@ -599,7 +599,7 @@
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
-      "action": "SHAPESHIFTING"
+      "action": "TELEPORT"
     },
     {
       "id": 2,
@@ -629,7 +629,7 @@
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
-      "action": "SHAPESHIFTING"
+      "action": "TELEPORT"
     },
     {
       "id": 2,
@@ -659,7 +659,7 @@
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
-      "action": "SHAPESHIFTING"
+      "action": "TELEPORT"
     },
     {
       "id": 2,
@@ -689,7 +689,7 @@
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
-      "action": "SHAPESHIFTING"
+      "action": "TELEPORT"
     },
     {
       "id": 2,
@@ -719,7 +719,7 @@
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
-      "action": "SHAPESHIFTING"
+      "action": "TELEPORT"
     },
     {
       "id": 2,
@@ -749,7 +749,7 @@
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
-      "action": "SHAPESHIFTING"
+      "action": "TELEPORT"
     },
     {
       "id": 2,
@@ -779,7 +779,7 @@
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
-      "action": "SHAPESHIFTING"
+      "action": "TELEPORT"
     },
     {
       "id": 2,
@@ -809,7 +809,7 @@
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
-      "action": "SHAPESHIFTING"
+      "action": "TELEPORT"
     },
     {
       "id": 2,
@@ -839,7 +839,7 @@
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
-      "action": "SHAPESHIFTING"
+      "action": "TELEPORT"
     },
     {
       "id": 2,
@@ -869,7 +869,7 @@
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
-      "action": "SHAPESHIFTING"
+      "action": "TELEPORT"
     },
     {
       "id": 2,
@@ -899,7 +899,7 @@
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
-      "action": "SHAPESHIFTING"
+      "action": "TELEPORT"
     },
     {
       "id": 2,
