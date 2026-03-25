@@ -34,7 +34,7 @@
       "type": "wait_game_page"
     },
     {
-      "duration": 70,
+      "duration": 75,
       "type": "gap"
     },
     {
