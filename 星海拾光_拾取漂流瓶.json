@@ -3,10 +3,10 @@
     "map": "starsea",
     "name": "星海拾光_拾取漂流瓶",
     "region": "星海",
-    "target": "漂流瓶",
+    "target": "无",
     "test_mode": false,
     "type": "综合",
-    "update_time": "2026-1-6 9:50:36",
+    "update_time": "2026-7-2 16:50:33",
     "version": "2.0",
     "count": 0
   },
@@ -14,8 +14,8 @@
     {
       "id": 0,
       "position": [
-        -35100,
-        44293.5
+        -35077.5,
+        44208
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
@@ -24,8 +24,8 @@
     {
       "id": 1,
       "position": [
-        -36027,
-        43825.5
+        -36084.95,
+        43824.64
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
@@ -34,8 +34,8 @@
     {
       "id": 2,
       "position": [
-        -36108,
-        42925.5
+        -36301.5,
+        41688
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
@@ -44,8 +44,8 @@
     {
       "id": 3,
       "position": [
-        -36292.5,
-        41733
+        -37093.5,
+        39996
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
@@ -54,8 +54,8 @@
     {
       "id": 4,
       "position": [
-        -37035,
-        40018.5
+        -36567,
+        39244.5
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
@@ -64,8 +64,8 @@
     {
       "id": 5,
       "position": [
-        -36558,
-        39262.5
+        -35478,
+        38691
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",
@@ -74,28 +74,8 @@
     {
       "id": 6,
       "position": [
-        -35473.5,
-        38745
-      ],
-      "point_type": "TARGET",
-      "move_mode": "WALK",
-      "action": "PICKUP_BOTTLE"
-    },
-    {
-      "id": 7,
-      "position": [
-        -34141.5,
-        38268
-      ],
-      "point_type": "TARGET",
-      "move_mode": "WALK",
-      "action": "PICKUP_BOTTLE"
-    },
-    {
-      "id": 8,
-      "position": [
-        -34141.5,
-        38268
+        -34195.09,
+        38312.6
       ],
       "point_type": "TARGET",
       "move_mode": "WALK",

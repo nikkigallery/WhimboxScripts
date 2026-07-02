@@ -1,0 +1,74 @@
+{
+  "info": {
+    "map": "miraland",
+    "name": "朝夕心愿_战斗",
+    "region": "巨木之森",
+    "target": "无",
+    "test_mode": false,
+    "type": "战斗",
+    "update_time": "2026-7-2 17:12:16",
+    "version": "2.0",
+    "count": "13"
+  },
+  "points": [
+    {
+      "id": 0,
+      "position": [
+        -615739.5,
+        -213043.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "TELEPORT"
+    },
+    {
+      "id": 1,
+      "position": [
+        -615606.15,
+        -212039.06
+      ],
+      "point_type": "TARGET",
+      "move_mode": "JUMP"
+    },
+    {
+      "id": 2,
+      "position": [
+        -615573,
+        -211108.5
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 3,
+      "position": [
+        -615397.5,
+        -209250
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK"
+    },
+    {
+      "id": 4,
+      "position": [
+        -614862,
+        -209250
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "朝夕心愿_战斗宏"
+    },
+    {
+      "id": 5,
+      "position": [
+        -615955.5,
+        -209205
+      ],
+      "point_type": "TARGET",
+      "move_mode": "WALK",
+      "action": "MACRO",
+      "action_params": "朝夕心愿_战斗宏"
+    }
+  ]
+}
